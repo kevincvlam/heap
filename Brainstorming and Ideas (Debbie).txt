@@ -1,0 +1,81 @@
+/_DATA TYPES/STRUCTURES________/
+
+QUALIFICATION TABLE
+- Deals with the constraint that TAs are to be comfortable with the material of the course they're teaching
+- Table of possibilities based on qualifications; array of vectors
+
+       course          1       2       3       4       . . .
+       _____________________________________________________
+       qualified TA 1  |_|     |_|     |_|     |_|
+       qualified TA 2  |_|     |_|     |_|     |_|
+       qualified TA 3  |_|     |_|     |_|     |_|
+       qualified TA 4  |_|     |_|     |_|     |_|
+       qualified TA 5          |_|     |_|     |_|
+       qualified TA 6          |_|             |_|
+               .
+               .
+               .
+
+  - begins with a vector containing ALL TAs, then cross possible TA's out based on given qualifications
+  - within the vector, the options are ranked in order of quality most qualified ---> least qualified (based on the given 0, 1, 2" info)
+
+HOURS/ENROLMENT TABLE
+- Deals with contraint that there is a minimum of 2.5hr/enrolment and maximum of 2*minimum enrolment
+- 2 dimensional array indicating the minimum number of TAships a course requires
+
+       course          1       2       3       4       . . .
+       _____________________________________________________
+       #TAships req'd          3       7       5       9
+
+
+MAIN TABLE
+- Deals with hours guanranteed/TA
+- Validity is checked with verify
+
+       course          1       2       3       4       . . .
+       _____________________________________________________
+       TAship 1        |_|     |_|     |_|     |_|
+       TAship 2        |_|     |_|     |_|     |_|
+       TAship 3        |_|     |_|     |_|     |_|
+       TAship 4        |_|     |_|     |_|     |_|
+       TAship 5        |_|     |_|     |_|     |_|
+       TAship 6                |_|     |_|     |_|
+       TAship 7                |_|             |_|
+       TAship 8                                |_|
+        .
+        .
+        .
+
+  - number of TAships cannot be less than the number of indicated in HOUR/ENROLMENT TABLE
+  - number of TAships cannot exceed the number for the course
+  - the frequency of a TA's name in this table cannot exceed the maximum number prescribed
+  - the frequency of a TA's name cannot be less than the number guaranteed
+
+
+/_FUNCTIONS________________/
+
+VERIFY(main table)
+
+- returns true is nothing is blatantly incorrect
+       - empty table would return true
+       - table is "printed" only if the number of empty boxes is 0 AND verify returns true
+- returns false if
+       - a TA is unqualfied in the course
+       - the number of guaranteed hours doesn't match what they got
+       - TAship/enrolment ranges to high or is below minimum
+
+SOLVE(main table)
+
+- process:
+       - heuristics (qualifications, prof interest, etc.)
+       - brute force
+               - add a TA to a course
+               - if (verify == true && num empty == 0) print table
+               - once table is seen, scanf variable asks if user is satisfied
+               - if so, exit program
+       - backtracking
+               - if verify is false || user is not satisfied
+               - remove most brute force recent addition and try again
+
+/_NOTES______________/
+- I'm not sure how the "ranking" system works...
