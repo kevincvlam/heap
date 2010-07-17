@@ -1,3 +1,8 @@
+#include "definitions_debbie.cpp"
+
+#ifndef INPUT_H_INCLUDED
+#define INPUT_H_INCLUDED
+
 /** Structures **/
 
 /*******************************************************************
@@ -83,3 +88,7 @@
 * - convert read info to information matrix
 * - scan string produced by applicant on file for key words
 *******************************************************************/
+
+void store_info(const char *);
+
+#endif//INPUT_H_INCLUDED

@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="definitions_debbie.cpp" />
+		<Unit filename="input_debbie.cpp" />
+		<Unit filename="input_debbie.h" />
+		<Unit filename="main_debbie.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
