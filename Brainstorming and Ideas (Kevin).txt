@@ -1,7 +1,0 @@
-Brainstorming and Ideas:
--Since the constraints are prioritized, perhaps we can use a sort of radix sort idea. Sorting from Least Significant to Most. 
--when we generate the ranked list of candidates, are we going to make it such that is someone eg. John is 1st on one course, he cannot be 1st on another. That is, would all the number one candidates correspond together into a recommended selection?
--store data in database fusing an object relational mapping software, perhaps with Java?
-prioritize courses too, eg. the 4th year courses get candidates chosen first
--for the inital draft program should we only store the descriptors we are going to process, i think we can just store everrything and then process a small number of them for now.
-  
