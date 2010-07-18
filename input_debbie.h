@@ -97,10 +97,14 @@ public:
 * - scan string produced by applicant on file for key words
 *******************************************************************/
 
-Input();
+Input(){};
 
 void store_info(const char *);
 
+
+/** Testing **/
+
+void print_identity();
 
 };
 
