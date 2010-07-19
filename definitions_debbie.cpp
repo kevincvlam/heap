@@ -5,10 +5,11 @@
 #include <string>
 #include <sstream>
 
+
 //Definitions
 
 /********************************************************************
-* TABLE PROPERTIES
+* TABLE PROPERTIES -- probably don't need this anymore
 *********************************************************************/
     #ifndef NUM_COURSE
     #define NUM_COURSE //(number of courses == size of several subarrays)
@@ -21,7 +22,7 @@
     #endif
 
 /********************************************************************
-* FIELDS
+* FIELDS -- probably don't need this anymore
 *     values pertain to index on INFORMATION MATRIX
 ********************************************************************/
 

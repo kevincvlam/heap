@@ -1,6 +1,6 @@
 #include "input_debbie.h"
 
-//Input::Input(){}
+//Input::Input(){} <--- this prorbably doesn't need to be a class
 
 void Input::store_info(const char * file){
 
@@ -21,7 +21,10 @@ void Input::store_info(const char * file){
     for(i=0;i<(unsigned)v.size();i++){
           //cout << "viewing: " << v[i] << endl;
         if (v[i].rfind("First name",v[i].size()-1)!=string::npos){
-            identity[NAME_FIRST].push_back(v[i].substr(12,v[i].size()-1));
+            studentInfo newStudent;
+            newStudent.firstName = v[i].substr(12,v[i].size()-1)
+            TAinfo.push_back(newStudent);
+            //identity[NAME_FIRST].push_back(v[i].substr(12,v[i].size()-1));
             //cout << "added first name: " << identity[NAME_FIRST][ta_count] << endl;
             ta_count++;
         } else if (v[i].rfind("Middle name",v[i].size()-1)!=string::npos){
@@ -38,6 +41,7 @@ void Input::store_info(const char * file){
         // ... go through all options ... until the next "First name" is reached, then increment the index of the corresponding option
 }
 
+//  -- probably don't need this anymore
 void Input::print_identity(){
     int i, j;
     for(i=0;i<identity[NAME_FIRST].size();i++){
