@@ -1,4 +1,5 @@
 #include <vector>
+#include <string.h>
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -36,7 +37,6 @@
     #endif
 
     //CATEGORY 2
-    #endif
     #ifndef EXP_LVL
     #define EXP_LVL 3
     #endif
@@ -95,8 +95,8 @@
     #ifndef QUAL_PROLOG
     #define QUAL_PROLOG 19
          #endif
-    #ifndef QUAL_LISP 20
-    #define QUAL_LISP
+    #ifndef QUAL_LISP
+    #define QUAL_LISP 20
          #endif
     #ifndef QUAL_ML
     #define QUAL_ML 21
@@ -215,7 +215,6 @@
     #ifndef CSC108H
     #define CSC108H 2
     #endif
-    #endif
     #ifndef CSC148H
     #define CSC148H 3
     #endif
@@ -231,7 +230,6 @@
     #ifndef CSC324H
     #define CSC324H 7
     #endif
-    #endif
     #ifndef CSC373H
     #define CSC373H 8
     #endif
@@ -239,15 +237,14 @@
 //    WILLINGNESS
 //        currently arbitrarily defined
 //        (perhaps change values to the number of "points" each rank rewards for Kevin and Karl's part)
-    #ifndef 1ST
-    #define 1ST 7
+    #ifndef FIRST
+    #define FIRST 7
     #endif
-    #ifndef 2ND
-    #define 2ND 6
+    #ifndef SECOND
+    #define SECOND 6
     #endif
-    #ifndef 3RD
-    #define 3RD 4
-    #endif
+    #ifndef THIRD
+    #define THIRD 4
     #endif
     #ifndef PREF
     #define PREF 2
@@ -258,3 +255,5 @@
     #ifndef UNWILL
     #define UNWILL 0
     #endif
+
+using namespace std;

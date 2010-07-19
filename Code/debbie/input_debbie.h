@@ -2,7 +2,8 @@
 
 #ifndef INPUT_H_INCLUDED
 #define INPUT_H_INCLUDED
-
+class Input{
+private:
 /** Structures **/
 
 /*******************************************************************
@@ -80,6 +81,13 @@
 *
 ********************************************************************/
 
+//structure for category 1:
+//  The identity array assigns an index number to a TA for use/reference throughout the rest of the program
+//  How to use: identity[NAME_FIRST or NAME_MIDDLE or NAME_LAST][assigned TA #]
+vector <string> identity[3];
+
+public:
+
 /** Functions **/
 
 /*******************************************************************
@@ -89,6 +97,15 @@
 * - scan string produced by applicant on file for key words
 *******************************************************************/
 
+Input(){};
+
 void store_info(const char *);
+
+
+/** Testing **/
+
+void print_identity();
+
+};
 
 #endif//INPUT_H_INCLUDED
