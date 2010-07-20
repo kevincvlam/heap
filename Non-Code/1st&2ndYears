@@ -1,0 +1,88 @@
+CSC104H1 [24L, 12T]
+Prereq: None
+Why and How of Computing
+-reading
+-writing
+-conversation
+
+
+CSC108H1 [36L, 12T, 12P]
+Prereq: None
+Introduction to Computer Programming
+-Python
+-C++
+-Java
+
+
+CSC120H1 [24L, 12P]
+Prereq: None
+Computer Science for the Sciences
+-Web Programming
+-Database design
+
+CSC148H1 [24L, 12T, 12P]
+Prereq: CSC108H1
+Introduction to Computer Science
+-Python
+-C++
+-Java
+
+CSC150H1 [36L, 12T, 12P]
+Prereq: None
+Accelerated Introcution to Computer Sciences
+-C
+-Lisp Scheme
+-Python
+-C++
+-Java
+
+CSC165H1 [36L, 24T]
+Prereq: None
+Mathematical Expression and Reasoning for Computer Science
+-Logic Design
+
+
+CSC207H1 [24L, 12T]
+Prereq: CSC148H1/CSC150H1
+Software Design
+-C++
+-Java
+
+CSC209H1 [24L, 12T]
+Prereq: CSC207H1
+Software Tools and Systems Programming
+-Unix
+-Script
+-Networks
+-Shell
+
+CSC236H1 [24L, 12T]
+Prereq: CSC148H1/CSC150H1, CSC165H1/CSC148H1
+Introduction to Theory of Computation
+
+CSC240H1 [24L, 12T]
+Prereq: CSC148H1/CSC150H1, CSC165H1/CSC148H1
+Enriched Introduction to the Theory of Computation
+
+CSC258H1 [24L, 13P, 12T]
+Prereq: CSC148H1/CSC150H1, CSC165h1/CSC240H1
+Computer Organization
+
+CSC260H1 [24L, 12T]
+Prereq: CSC108H1
+Introduction to Scientific, Symbolic, and Graphical Computation
+
+CSC263H1 [24L, 12T]
+Prereq: CSC207H1, CSC236H1/CSC240H1
+Data Structures and Analysis [24L, 12T]
+
+CSC265H1 [24L, 12T]
+Prereq: CSC240H1, CSC236H1
+Enriched Data Structures and Analysis
+
+CSC290H1 [36L]
+Prereq: None
+Communication Skills for Computer Scientists.
+-Reading
+-Writing
+-Conversation
