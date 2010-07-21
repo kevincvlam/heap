@@ -13,17 +13,23 @@ void Input::store_info(const char * file){
             Student *TA = new Student;
             TA->firstName = s.substr(12,s.size()-1);
             info.push_back(TA);
-            cout << "added first name: " << info[numTA]->firstName << endl;
+            //cout << "added first name: " << info[numTA]->firstName << endl;
             numTA++;
         } else if (s.rfind("Middle name",s.size()-1)!=string::npos){
             info[numTA-1]->middleName = s.substr(13,s.size()-1);
-            cout << "added " << info[numTA-1]->firstName << "'s middle name: " << info[numTA-1]->middleName << endl;
+            //cout << "added " << info[numTA-1]->firstName << "'s middle name: " << info[numTA-1]->middleName << endl;
         } else if (s.rfind("Last name",s.size()-1)!=string::npos){
             info[numTA-1]->lastName = s.substr(11,s.size()-1);
-            cout << "added last name: " << info[numTA-1]->lastName << endl;
+            //cout << "added last name: " << info[numTA-1]->lastName << endl;
         }
         s.clear();
     }
     in.close();
+    
+    /* testing input of names
+    int i;
+    for (i=0; i<(unsigned)info.size(); i++){
+        cout << i << ". " << info[i]->firstName << " " << info[i]->middleName << " " << info[i]->lastName << endl;
+    }*/
     
 }
