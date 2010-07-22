@@ -4,18 +4,22 @@
 #define STUDENT_H_INCLUDED
 
 struct Student{
+            
        string firstName;
        string middleName;
        string lastName;
-       string levelOfStudy;
+       
+       int level; // changed to int for comparability.
+      
        int reading;
        int writing;
        int conversation;
-       int java;
+       int Java;
        int C;
-       int Cplusplus;
+       int Cpp;
        int BASIC;
-       int lispScheme;
+       int Prolog;
+       int LispScheme;
        int ML;
        int CVS;
        int CSim;
@@ -26,7 +30,7 @@ struct Student{
        int Python;
        int HTML;
        int UML;
-       int Linux;
+       int UnixLinux;
        int tools;
        int shell;
        int make;
@@ -40,38 +44,36 @@ struct Student{
        int databases;
        int concurrency;
        int networks;
-       int compliers;
+       int compilers;
        int statistics;
        int simulations;
        int systemsModelling;
        int numMethods;
        int business;
+       
        int pastTAships;
        int TAshipsOwed ;
        int TAshipsWanted;
        int minWilling;
        int maxWilling;
-       /* naming system gives errors here
-       int HLP101H;
-       string HLP101H;
-       int HLP101HTAH;
-       string HLP101HTAH;
-       int CSC108H;
-       string CSC108H;
-       int CSC148H;
-       string CSC148H;
-       int CSC165H;
-       string CSC165H;
-       int CSC207H;
-       string CSC207H;
-       int CSC209H;
-       string CSC209H;
-       int CSC324H;
-       string CSC324H;
-       int CSC373H;
-       string CSC373H;
-       */
-       int courses[/*NUM_COURSES*/];
+       
+       // THESE TABLES ARE GLITCHY.  code for index 0 and 1 but not beyond ...
+       
+       int pref[NUM_COURSES]; //pref[COURSECODE] = preference for COURSECODE
+       int prevAppts[NUM_COURSES]; // prevAppts[COUSECODE] = prev. appts. for COURSECODE
+       
+       /*option 1:
+       vector <string> taken; // vector of taken courses
+       // allows addition of courses that are not included in pool of defined courses
+       */ 
+       
+       //option 2:
+       int taken[NUM_COURSES]; // taken[COURSECODE] = grade for COURSECODE; -1 if course was not taken
+       
+       Student(){
+          int i;
+          for (i=0; i<NUM_COURSES; i++)    taken[i] = -1;
+       }
 };
 
 
