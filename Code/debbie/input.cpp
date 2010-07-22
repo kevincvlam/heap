@@ -195,15 +195,15 @@ void Input::store_info(const char * file){
     
     
     //testing input of random things
-    /*
+    
     int i,j;
-    for (i=0; i<6; i++){
-        for (j=0;j<NUM_COURSES;j++){
+    for (i=0; i<(unsigned)info.size(); i++){
+        /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
-        }
-        //cout << i << ". " << info[i]->firstName << " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH] << endl;
+        }*/
+        cout << i << ". " << info[i]->firstName /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     }
-    */
+    
 }
 
 int Input::convert_int(string s) { 
