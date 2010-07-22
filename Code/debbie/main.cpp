@@ -7,6 +7,8 @@ int main(int argc, char* argv[]) {
     Input in;
     in.store_info(argv[1]);
     
+    
+    
     return 0;
 
 }
