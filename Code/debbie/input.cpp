@@ -42,7 +42,7 @@ void Input::store_info(const char * file){
             info[numTA-1]->Prolog = convert_int(s.substr(8,s.size()-1));
         } else if (s.rfind("Lisp/Scheme",s.size()-1)!=string::npos){
             info[numTA-1]->LispScheme = convert_int(s.substr(13,s.size()-1));
-        } else if (s.rfind("ML",s.size()-1)!=string::npos){
+        } else if (s.rfind(" ML:",s.size()-1)!=string::npos){
             info[numTA-1]->ML = convert_int(s.substr(4,s.size()-1));
         } else if (s.rfind("CVS",s.size()-1)!=string::npos){
             info[numTA-1]->CVS = convert_int(s.substr(5,s.size()-1));
@@ -58,7 +58,7 @@ void Input::store_info(const char * file){
             info[numTA-1]->Perl = convert_int(s.substr(6,s.size()-1));
         } else if (s.rfind("Python",s.size()-1)!=string::npos){
             info[numTA-1]->Python = convert_int(s.substr(8,s.size()-1));
-        } else if (s.rfind("HTML",s.size()-1)!=string::npos){
+        } else if (s.rfind("HTML:",s.size()-1)!=string::npos){
             info[numTA-1]->HTML = convert_int(s.substr(6,s.size()-1));
         } else if (s.rfind("UML",s.size()-1)!=string::npos){
             info[numTA-1]->UML = convert_int(s.substr(5,s.size()-1));
@@ -196,7 +196,7 @@ void Input::store_info(const char * file){
     
     //testing input of random things
     
-    int i,j;
+    int i/*,j*/;
     for (i=0; i<(unsigned)info.size(); i++){
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
