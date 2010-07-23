@@ -1,4 +1,4 @@
-f#include "input.h"
+#include "input.h"
 
 Input::Input(){
     numTA = 0;
