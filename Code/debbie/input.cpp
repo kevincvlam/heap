@@ -1,15 +1,15 @@
-#include "input.h"
+f#include "input.h"
 
 Input::Input(){
     numTA = 0;
 }
 
 void Input::store_info(const char * file){
-     
+
     ifstream in (file);
     string s; // holds each line
     while (getline(in,s)){
-          
+
         if (s.rfind("First name",s.size()-1)!=string::npos){
             Student *TA = new Student;
             TA->firstName = s.substr(12,s.size()-1);
@@ -18,12 +18,12 @@ void Input::store_info(const char * file){
             info[numTA-1]->middleName = s.substr(13,s.size()-1);
         } else if (s.rfind("Last name",s.size()-1)!=string::npos){
             info[numTA-1]->lastName = s.substr(11,s.size()-1);
-            
+
         } else if (s.rfind("Level of study",s.size()-1)!=string::npos){
             if (s.rfind("PhD",s.size()-1)!=string::npos) info[numTA-1]->level = PHD;
             else if (s.rfind("MSc",s.size()-1)!=string::npos) info[numTA-1]->level = MSC;
             else  info[numTA-1]->level = BA;
-            
+
         } else if (s.rfind("reading",s.size()-1)!=string::npos){
             info[numTA-1]->reading = convert_int(s.substr(9,s.size()-1));
         } else if (s.rfind("writing",s.size()-1)!=string::npos){
@@ -102,7 +102,7 @@ void Input::store_info(const char * file){
             info[numTA-1]->numMethods = convert_int(s.substr(19,s.size()-1));
         } else if (s.rfind("business",s.size()-1)!=string::npos){
             info[numTA-1]->business = convert_int(s.substr(10,s.size()-1));
-            
+
         } else if (s.rfind("Past TAships",s.size()-1)!=string::npos){
             info[numTA-1]->pastTAships = convert_int(s.substr(14,s.size()-1));
         } else if (s.rfind("TAships owed",s.size()-1)!=string::npos){
@@ -113,89 +113,89 @@ void Input::store_info(const char * file){
             info[numTA-1]->minWilling = convert_int(s.substr(22,s.size()-1));
         } else if (s.rfind("Max. TAships willing",s.size()-1)!=string::npos){
             info[numTA-1]->maxWilling = convert_int(s.substr(22,s.size()-1));
-        
+
         } else if (s.rfind("Preference",s.size()-1)!=string::npos){
             if (s.rfind("1st",s.size()-1)!=string::npos){
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = FIRST;
                 else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = FIRST;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = FIRST;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = FIRST;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = FIRST; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = FIRST;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = FIRST;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = FIRST;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = FIRST;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = FIRST;
             } else if (s.rfind("2nd",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = SECOND;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = SECOND; 
+                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = SECOND;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = SECOND;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = SECOND;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = SECOND; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = SECOND;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = SECOND;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = SECOND;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = SECOND;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = SECOND;
             } else if (s.rfind("3rd",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = THIRD;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = THIRD; 
+                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = THIRD;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = THIRD;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = THIRD;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = THIRD; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = THIRD;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = THIRD;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = THIRD;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = THIRD;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = THIRD;
             } else if (s.rfind("pref",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = PREF;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = PREF; 
+                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = PREF;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = PREF;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = PREF;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = PREF; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = PREF;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = PREF;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = PREF;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = PREF;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = PREF;
             } else if (s.rfind(" will",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = WILL;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = WILL; 
+                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = WILL;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = WILL;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = WILL;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = WILL; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = WILL;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = WILL;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = WILL;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = WILL;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = WILL;
             } else if (s.rfind("unwill",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = UNWILL;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = UNWILL; 
+                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = UNWILL;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = UNWILL;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = UNWILL;
-                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = UNWILL; 
+                else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = UNWILL;
                 else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC207H] = UNWILL;
                 else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC209H] = UNWILL;
                 else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC373H] = UNWILL;
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = UNWILL;
-            }      
+            }
 
         } else if (s.rfind("Prev. appts.",s.size()-1)!=string::npos){
             if (s.rfind("HLP101H:",s.size()-1)!=string::npos)  info[numTA-1]->prevAppts[HLP101H] = convert_int(s.substr(26,s.size()-1));
             else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[HLP101HTAH] = convert_int(s.substr(29,s.size()-1));
             else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC108H] = convert_int(s.substr(26,s.size()-1));
-            else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC148H] = convert_int(s.substr(26,s.size()-1)); 
-            else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC165H] = convert_int(s.substr(26,s.size()-1)); 
-            else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC207H] = convert_int(s.substr(26,s.size()-1)); 
-            else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC209H] = convert_int(s.substr(26,s.size()-1)); 
-            else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC373H] = convert_int(s.substr(26,s.size()-1)); 
-            else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC324H] = convert_int(s.substr(26,s.size()-1));          
+            else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC148H] = convert_int(s.substr(26,s.size()-1));
+            else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC165H] = convert_int(s.substr(26,s.size()-1));
+            else if (s.rfind("CSC207H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC207H] = convert_int(s.substr(26,s.size()-1));
+            else if (s.rfind("CSC209H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC209H] = convert_int(s.substr(26,s.size()-1));
+            else if (s.rfind("CSC373H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC373H] = convert_int(s.substr(26,s.size()-1));
+            else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC324H] = convert_int(s.substr(26,s.size()-1));
         }
-        
+
         s.clear();
     }
     in.close();
-    
-    
+
+
     //testing input of random things
-    
+
     int i/*,j*/;
     for (i=0; i<(unsigned)info.size(); i++){
         /*for (j=0;j<NUM_COURSES;j++){
@@ -203,11 +203,11 @@ void Input::store_info(const char * file){
         }*/
         cout << i << ". " << info[i]->firstName /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     }
-    
+
 }
 
-int Input::convert_int(string s) { 
-  int i; 
-  i = atoi(s.c_str()); 
-  return i; 
+int Input::convert_int(string s) {
+  int i;
+  i = atoi(s.c_str());
+  return i;
 }
