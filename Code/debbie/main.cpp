@@ -5,7 +5,8 @@
 int main(int argc, char* argv[]) {
     if (argc < 2) { cout << "Error: Use 1 Argument." << endl; return EXIT_FAILURE;}
     Input in;
-    in.store_info(argv[1]);
+    vector <Student*> TAinfo;
+    TAinfo = in.store_info(argv[1]);
     
     
     

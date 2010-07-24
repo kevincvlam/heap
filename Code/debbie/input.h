@@ -9,13 +9,13 @@ private:
 
 int numTA;
 
-vector <Student*> info;
+//vector <Student*> info;
 
 public:
 
 Input();
 
-void store_info(const char *);
+vector <Student*> store_info(const char *);
 
 // help functions
 int convert_int(string); // converts string to int

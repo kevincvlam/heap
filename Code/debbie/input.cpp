@@ -4,10 +4,12 @@ Input::Input(){
     numTA = 0;
 }
 
-void Input::store_info(const char * file){
+vector <Student*> Input::store_info(const char * file){
+
+    vector <Student*> info;
 
     ifstream in (file);
-    string s; // holds each line
+    string s;
     while (getline(in,s)){
                        
         if (s.rfind("First name",s.size()-1)!=string::npos){
@@ -32,17 +34,21 @@ void Input::store_info(const char * file){
             info[numTA-1]->conversation = convert_int(s.substr(13,s.size()-1));
         } else if (s.rfind("Java",s.size()-1)!=string::npos){
             info[numTA-1]->Java = convert_int(s.substr(6,s.size()-1));
-        } else if (s.rfind(" C:",s.size()-1)!=string::npos){
-            info[numTA-1]->C = convert_int(s.substr(3,s.size()-1));
         } else if (s.rfind("C++",s.size()-1)!=string::npos){
             info[numTA-1]->Cpp = convert_int(s.substr(5,s.size()-1));
+        } else if (s.rfind("C:",s.size()-1)!=string::npos){
+            info[numTA-1]->C = convert_int(s.substr(3,s.size()-1));
         } else if (s.rfind("BASIC",s.size()-1)!=string::npos){
             info[numTA-1]->BASIC = convert_int(s.substr(7,s.size()-1));
         } else if (s.rfind("Prolog",s.size()-1)!=string::npos){
             info[numTA-1]->Prolog = convert_int(s.substr(8,s.size()-1));
         } else if (s.rfind("Lisp/Scheme",s.size()-1)!=string::npos){
             info[numTA-1]->LispScheme = convert_int(s.substr(13,s.size()-1));
-        } else if (s.rfind(" ML:",s.size()-1)!=string::npos){
+        } else if (s.rfind("HTML:",s.size()-1)!=string::npos){
+            info[numTA-1]->HTML = convert_int(s.substr(6,s.size()-1));
+        } else if (s.rfind("UML",s.size()-1)!=string::npos){
+            info[numTA-1]->UML = convert_int(s.substr(5,s.size()-1));
+        } else if (s.rfind("ML:",s.size()-1)!=string::npos){
             info[numTA-1]->ML = convert_int(s.substr(4,s.size()-1));
         } else if (s.rfind("CVS",s.size()-1)!=string::npos){
             info[numTA-1]->CVS = convert_int(s.substr(5,s.size()-1));
@@ -58,10 +64,6 @@ void Input::store_info(const char * file){
             info[numTA-1]->Perl = convert_int(s.substr(6,s.size()-1));
         } else if (s.rfind("Python",s.size()-1)!=string::npos){
             info[numTA-1]->Python = convert_int(s.substr(8,s.size()-1));
-        } else if (s.rfind("HTML:",s.size()-1)!=string::npos){
-            info[numTA-1]->HTML = convert_int(s.substr(6,s.size()-1));
-        } else if (s.rfind("UML",s.size()-1)!=string::npos){
-            info[numTA-1]->UML = convert_int(s.substr(5,s.size()-1));
         } else if (s.rfind("Unix/Linux",s.size()-1)!=string::npos){
             info[numTA-1]->UnixLinux = convert_int(s.substr(12,s.size()-1));
         } else if (s.rfind("tools",s.size()-1)!=string::npos){
@@ -203,6 +205,8 @@ void Input::store_info(const char * file){
         }*/
         cout << i << ". " << info[i]->firstName /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     }
+    
+    return info;
 
 }
 
