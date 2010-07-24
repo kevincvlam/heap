@@ -9,7 +9,7 @@ void Input::store_info(const char * file){
     ifstream in (file);
     string s; // holds each line
     while (getline(in,s)){
-
+                       
         if (s.rfind("First name",s.size()-1)!=string::npos){
             Student *TA = new Student;
             TA->firstName = s.substr(12,s.size()-1);
@@ -32,7 +32,7 @@ void Input::store_info(const char * file){
             info[numTA-1]->conversation = convert_int(s.substr(13,s.size()-1));
         } else if (s.rfind("Java",s.size()-1)!=string::npos){
             info[numTA-1]->Java = convert_int(s.substr(6,s.size()-1));
-        } else if (s.rfind("C",s.size()-1)!=string::npos){
+        } else if (s.rfind(" C:",s.size()-1)!=string::npos){
             info[numTA-1]->C = convert_int(s.substr(3,s.size()-1));
         } else if (s.rfind("C++",s.size()-1)!=string::npos){
             info[numTA-1]->Cpp = convert_int(s.substr(5,s.size()-1));
@@ -196,7 +196,7 @@ void Input::store_info(const char * file){
 
     //testing input of random things
 
-    int i/*,j*/;
+    int i,/*j*/;
     for (i=0; i<(unsigned)info.size(); i++){
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
