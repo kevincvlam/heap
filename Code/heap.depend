@@ -55,12 +55,12 @@
 1279834106 c:\users\kevin lam\dev\heap\code\student.h
 	"definitions.cpp"
 
-1280028159 source:c:\users\kevin lam\dev\heap\code\main.cpp
+1280076939 source:c:\users\kevin lam\dev\heap\code\main.cpp
 	"input.h"
 	"student.h"
 	"sorting.h"
 
-1280028537 c:\users\kevin lam\dev\heap\code\sorting.h
+1280076934 c:\users\kevin lam\dev\heap\code\sorting.h
 	"student.h"
 
 1280028443 c:\users\kevin lam\dev\heap\code\sorting.cpp
@@ -68,7 +68,8 @@
 	"student.h"
 	"sorting.h"
 
-1280027244 source:c:\users\kevin lam\dev\heap\code\sorting.cpp
+1280077010 source:c:\users\kevin lam\dev\heap\code\sorting.cpp
 	"input.h"
 	"student.h"
+	"sorting.h"
 
