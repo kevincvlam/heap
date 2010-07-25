@@ -17,9 +17,12 @@ int main(int argc, char* argv[]) {
     for(j = 0; j < NUM_COURSES; j++)
     {
     Courses[j] = sort.storePref(TAinfo, Courses[j], j);
+    Courses[j] = sort.bySeniority(Courses[j]); //sort the new list by seniority
+    Courses[j] = sort.byPrevAppts(Courses[j], j);
     }
 
-
+    //test
+    sort.printNames(Courses[1]);
     return 0;
 
 }

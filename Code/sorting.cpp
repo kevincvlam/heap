@@ -7,23 +7,29 @@
 //Sort by Guarantees Highest Hours to Lowest
 //Sort by Preference 1st 2nd 3rd will unwill
 //Sort by seniority
-//
+//Sort by Prev Appts
 //Work from upper year courses down
 
 /*Helper Functions*/
 void Sorting::printNames(vector<Student*> x)
 {
-    int j;
+    unsigned int j;
     for(j =0; j < x.size(); j++)
-    cout << j << ". " << x[j]->firstName << endl;
+    {
+    cout << j+1 << ". " << x[j]->firstName;
+    cout << "  |  Level: " << x[j]->level;
+    cout << "  |  Pref: " << x[j]->pref[1];
+    cout << "  |  PrevAppts: " << x[j]->prevAppts[1] << endl;
+    }
 }
+
 
 /**Private Functions **/
 
 vector <Student*> Sorting::prefFirst(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] == FIRST)
@@ -38,7 +44,7 @@ vector <Student*> Sorting::prefFirst(vector <Student*> TA, vector <Student*> Cou
 vector <Student*> Sorting::prefSecond(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] == SECOND)
@@ -52,7 +58,7 @@ vector <Student*> Sorting::prefSecond(vector <Student*> TA, vector <Student*> Co
 vector <Student*> Sorting::prefThird(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] == THIRD)
@@ -67,7 +73,7 @@ vector <Student*> Sorting::prefThird(vector <Student*> TA, vector <Student*> Cou
 vector <Student*> Sorting::prefWill(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] == WILL)
@@ -82,7 +88,7 @@ vector <Student*> Sorting::prefWill(vector <Student*> TA, vector <Student*> Cour
 vector <Student*> Sorting::prefUnwill(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] == UNWILL)
@@ -96,7 +102,7 @@ vector <Student*> Sorting::prefUnwill(vector <Student*> TA, vector <Student*> Co
 vector <Student*> Sorting::prefLeft(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
-    int i;
+    unsigned int i;
     for(i =0; i< TA.size(); i++)
     {
         if(TA[i]->pref[Code] != UNWILL
@@ -124,3 +130,50 @@ vector <Student*> Sorting::storePref(vector <Student*> TA, vector <Student*> Cou
     return Course;
 }
 
+vector <Student*> Sorting::bySeniority(vector <Student*> Course)
+{
+    int swappedFlag = 1;
+    while(swappedFlag == 1)
+    {
+
+        swappedFlag = 0;
+        //bubble sort
+        unsigned int i;
+        for(i = 0; i < (Course.size())-1; i++)
+        {
+            if(Course[i]->level < Course[i+1]->level)
+            {
+                //swap two students
+                Course.insert(Course.begin()+(i+2), Course[i]);
+                Course.erase(Course.begin()+i);
+
+                swappedFlag = 1;
+            }
+        }
+    }
+    return Course;
+}
+
+vector <Student*> Sorting::byPrevAppts(vector <Student*> Course, int code)
+{
+    int swappedFlag = 1;
+    while(swappedFlag == 1)
+    {
+
+        swappedFlag = 0;
+        //bubble sort
+        unsigned int i;
+        for(i = 0; i < (Course.size())-1; i++)
+        {
+            if(Course[i]->prevAppts[code] < Course[i+1]->prevAppts[code])
+            {
+                //swap two students
+                Course.insert(Course.begin()+(i+2), Course[i]);
+                Course.erase(Course.begin()+i);
+
+                swappedFlag = 1;
+            }
+        }
+    }
+    return Course;
+}

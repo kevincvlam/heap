@@ -107,7 +107,7 @@ vector <Student*> Input::store_info(const char * file){
 
         } else if (s.rfind("Past TAships",s.size()-1)!=string::npos){
             info[numTA-1]->pastTAships = convert_int(s.substr(14,s.size()-1));
-        } else if (s.rfind("TAships owed",s.size()-1)!=string::npos){
+        } else if (s.rfind("TAships owed:",s.size()-1)!=string::npos){
             info[numTA-1]->TAshipsOwed = convert_int(s.substr(14,s.size()-1));
         } else if (s.rfind("TAships wanted",s.size()-1)!=string::npos){
             info[numTA-1]->TAshipsWanted = convert_int(s.substr(16,s.size()-1));
