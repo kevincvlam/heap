@@ -10,7 +10,7 @@
 //Sort by Prev Appts
 //Work from upper year courses down
 
-/*Helper Functions*/
+/**Printing Functions**/
 void Sorting::printNames(vector<Student*> x)
 {
     unsigned int j;
@@ -23,7 +23,15 @@ void Sorting::printNames(vector<Student*> x)
     }
 }
 
-
+void Sorting::printAssignment(vector <Student*> Course[NUM_COURSES], int level) //print the assignment of the top 3 from level, ie. all ranked #1 etc
+{
+    unsigned int j;
+    for(j=0; j< NUM_COURSES; j++)
+    {
+        cout << "Course: " << j << " Assigned: " << Course[j][level]->firstName << ", ";
+        cout << Course[j][level+1]->firstName << ", " << Course[j][level+2]->firstName << endl;
+    }
+}
 /**Private Functions **/
 
 vector <Student*> Sorting::prefFirst(vector <Student*> TA, vector <Student*> Course, int Code)

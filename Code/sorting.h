@@ -21,6 +21,7 @@ void printNames(vector<Student*> x);
 vector <Student*> storePref(vector <Student*> TA, vector <Student*> Course, int Code);
 vector <Student*> bySeniority(vector <Student*> Course);
 vector <Student*> byPrevAppts(vector <Student*> Course, int code);
+void printAssignment(vector <Student*> Course[NUM_COURSES], int level);
 };
 
 #endif//SORTING_H_INCLUDED

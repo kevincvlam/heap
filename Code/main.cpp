@@ -23,6 +23,7 @@ int main(int argc, char* argv[]) {
 
     //test
     sort.printNames(Courses[1]);
+    sort.printAssignment(Courses, 1);
     return 0;
 
 }
