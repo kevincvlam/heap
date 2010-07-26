@@ -52,7 +52,7 @@ struct Student{
        int business;
        
        int pastTAships;
-       int TAshipsOwed ;
+       int TAhoursOwed ;
        int TAshipsWanted;
        int minWilling;
        int maxWilling;

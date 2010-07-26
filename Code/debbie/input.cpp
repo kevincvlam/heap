@@ -104,11 +104,10 @@ vector <Student*> Input::store_info(const char * file){
             info[numTA-1]->numMethods = convert_int(s.substr(19,s.size()-1));
         } else if (s.rfind("business",s.size()-1)!=string::npos){
             info[numTA-1]->business = convert_int(s.substr(10,s.size()-1));
-
         } else if (s.rfind("Past TAships",s.size()-1)!=string::npos){
             info[numTA-1]->pastTAships = convert_int(s.substr(14,s.size()-1));
-        } else if (s.rfind("TAships owed",s.size()-1)!=string::npos){
-            info[numTA-1]->TAshipsOwed = convert_int(s.substr(14,s.size()-1));
+        } else if (s.rfind("TAships owed (database)",s.size()-1)!=string::npos){
+            info[numTA-1]->TAhoursOwed = convert_int(s.substr(s.rfind("[",s.size()-1)+1,s.rfind(",",s.size()-1)-1));
         } else if (s.rfind("TAships wanted",s.size()-1)!=string::npos){
             info[numTA-1]->TAshipsWanted = convert_int(s.substr(16,s.size()-1));
         } else if (s.rfind("Min. TAships willing",s.size()-1)!=string::npos){
@@ -203,7 +202,7 @@ vector <Student*> Input::store_info(const char * file){
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
         }*/
-        cout << i << ". " << info[i]->firstName /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
+        cout << i << ". " << info[i]->firstName << " " << info[i]->TAhoursOwed /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     }
     
     return info;
