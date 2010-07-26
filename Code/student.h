@@ -63,6 +63,7 @@ struct Student{
 
        int pref[NUM_COURSES]; //pref[COURSECODE] = preference for COURSECODE
        int prevAppts[NUM_COURSES]; // prevAppts[COUSECODE] = prev. appts. for COURSECODE
+       int score[NUM_COURSES];
 
        /*option 1:
        vector <string> taken; // vector of taken courses
@@ -74,7 +75,8 @@ struct Student{
 
        Student(){
           int i;
-          for (i=0; i<NUM_COURSES; i++)    taken[i] = -1;
+          for (i=0; i<NUM_COURSES; i++) {   taken[i] = -1;
+          score[i] = 0;}
        }
 };
 

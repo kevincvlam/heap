@@ -38,6 +38,8 @@
 		<Unit filename="input.cpp" />
 		<Unit filename="input.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="score.cpp" />
+		<Unit filename="score.h" />
 		<Unit filename="sorting.cpp" />
 		<Unit filename="sorting.h" />
 		<Unit filename="student.h" />

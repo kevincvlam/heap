@@ -199,7 +199,7 @@ vector <Student*> Input::store_info(const char * file){
 
     //testing input of random things
 
-    int i,/*j*/;
+    unsigned int i,/*j*/;
     for (i=0; i<(unsigned)info.size(); i++){
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;

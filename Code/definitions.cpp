@@ -54,19 +54,19 @@
 //     currently arbitrarily defined
 //     (perhaps change values to the number of "points" each rank rewards for Kevin and Karl's part)
     #ifndef FIRST
-    #define FIRST 5
+    #define FIRST 10
     #endif
     #ifndef SECOND
-    #define SECOND 4
+    #define SECOND 8
     #endif
     #ifndef THIRD
-    #define THIRD 3
+    #define THIRD 6
     #endif
     #ifndef PREF
-    #define PREF 2
+    #define PREF 4
     #endif
     #ifndef WILL
-    #define WILL 1
+    #define WILL 2
     #endif
     #ifndef UNWILL
     #define UNWILL 0
