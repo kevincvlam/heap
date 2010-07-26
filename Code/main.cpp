@@ -19,6 +19,7 @@ int main(int argc, char* argv[]) {
     Courses[j] = sort.storePref(TAinfo, Courses[j], j);
     Courses[j] = sort.bySeniority(Courses[j]); //sort the new list by seniority
     Courses[j] = sort.byPrevAppts(Courses[j], j);
+    Courses[j] = sort.byTAshipsOwed(Courses[j]);
     }
 
     //test

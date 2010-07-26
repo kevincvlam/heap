@@ -185,3 +185,27 @@ vector <Student*> Sorting::byPrevAppts(vector <Student*> Course, int code)
     }
     return Course;
 }
+
+vector <Student*> Sorting::byTAshipsOwed(vector <Student*> Course)
+{
+    int swappedFlag = 1;
+    while(swappedFlag == 1)
+    {
+
+        swappedFlag = 0;
+        //bubble sort
+        unsigned int i;
+        for(i = 0; i < (Course.size())-1; i++)
+        {
+            if(Course[i]->TAhoursOwed < Course[i+1]->TAhoursOwed)
+            {
+                //swap two students
+                Course.insert(Course.begin()+(i+2), Course[i]);
+                Course.erase(Course.begin()+i);
+
+                swappedFlag = 1;
+            }
+        }
+    }
+    return Course;
+}
