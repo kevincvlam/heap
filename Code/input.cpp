@@ -115,13 +115,6 @@ vector <Student*> Input::store_info(const char * file){
         } else if (s.rfind("Max. TAships willing",s.size()-1)!=string::npos){
             info[numTA-1]->maxWilling = convert_int(s.substr(22,s.size()-1));
 
-//kevin
-        } else if (s.rfind("Max. TAships willing",s.size()-1)!=string::npos){
-            info[numTA-1]->maxWilling = convert_int(s.substr(22,s.size()-1));
-
-
-//end kevin
-
 
 
         } else if (s.rfind("Preference",s.size()-1)!=string::npos){
@@ -213,7 +206,7 @@ vector <Student*> Input::store_info(const char * file){
         }*/
         cout << i << ". " << info[i]->firstName << " " << info[i]->TAhoursOwed /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     }
-  
+
     return info;
 
 }

@@ -4,14 +4,14 @@
 	<File name="definitions.cpp" open="1" top="0" tabpos="1">
 		<Cursor position="0" topLine="50" />
 	</File>
-	<File name="input.cpp" open="1" top="1" tabpos="2">
-		<Cursor position="7351" topLine="105" />
+	<File name="input.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="216" topLine="108" />
 	</File>
 	<File name="input.h" open="0" top="0" tabpos="0">
 		<Cursor position="52" topLine="0" />
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="3">
-		<Cursor position="884" topLine="3" />
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="884" topLine="0" />
 	</File>
 	<File name="sorting.cpp" open="1" top="0" tabpos="4">
 		<Cursor position="1002" topLine="154" />
