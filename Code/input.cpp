@@ -116,6 +116,15 @@ vector <Student*> Input::store_info(const char * file){
         } else if (s.rfind("Max. TAships willing",s.size()-1)!=string::npos){
             info[numTA-1]->maxWilling = convert_int(s.substr(22,s.size()-1));
 
+//kevin
+        } else if (s.rfind("Max. TAships willing",s.size()-1)!=string::npos){
+            info[numTA-1]->maxWilling = convert_int(s.substr(22,s.size()-1));
+
+
+//end kevin
+
+
+
         } else if (s.rfind("Preference",s.size()-1)!=string::npos){
             if (s.rfind("1st",s.size()-1)!=string::npos){
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = FIRST;
