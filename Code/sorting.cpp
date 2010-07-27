@@ -37,17 +37,16 @@ void Sorting::printAssignment(vector <Student*> Course[NUM_COURSES], int level) 
 /** debbie's suggestion************************************************/
 // can we combine all the preference functions into one like this?
 // ... let me know if i'm not understanding something fundamental about these functions xD
-vector <Student*> Sorting::pref(vector <Student*> TA, vector <Student*> Course, int Code, int preference)
+// Course is a vector of pointers to student vectors such that Course[CODE][RANK] returns the TA of rank RANK for course CODE.
+vector <Student*>* [NUM_COURSE] vector <Student*> Sorting::pref(vector <Student*> TA, vector <Student*>* Course[NUM_COURSE], int Code, int preference)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
     unsigned int i;
-    for(i =0; i< TA.size(); i++)
-    {
-        if(TA[i]->pref[Code] == preference)
-        {
+    for(i =0; i< TA.size(); i++){
+          if(TA[i]->pref[code] == preference){
            // cout << TA[i]->firstName << endl;
-            Course.push_back(TA[i]);
-        }
+              Course[code].push_back(TA[i]);
+           }
     }
     return Course;
 }
@@ -146,10 +145,12 @@ vector <Student*> Sorting::prefLeft(vector <Student*> TA, vector <Student*> Cour
 
 /** Public Functions **/
 
-vector <Student*> Sorting::storePref(vector <Student*> TA, vector <Student*> Course, int Code)
+/*debbie's*suggestion*******************************************/
+// goes through vector of TAs and stores TA's perference for a given course, repeats this for every course
+vector <Student*>* [NUM_COURSE] Sorting::storePref(vector <Student*> TA, vector <Student*> Course)
 {
-    int i;
-    for (i=FIRST;i>=UNWILL;i--)  Course = pref(TA, Course, Code, i);
+    int i,j;
+    for (i=0;i<NUM_COURSES;i++)   for (j=FIRST;j>=UNWILL;j--)  Course = pref(TA, Course, i, j);
     /*
     Course = prefFirst(TA, Course, Code);
     Course = prefSecond(TA, Course, Code);
@@ -160,7 +161,51 @@ vector <Student*> Sorting::storePref(vector <Student*> TA, vector <Student*> Cou
     */
     return Course;
 }
+/*end**debbie's*suggestion***************************************/
 
+/*
+// ORIGINAL: goes through vector of TAs and stores TA's perference of a given course
+vector <Student*> Sorting::storePref(vector <Student*> TA, vector <Student*> Course, int Code)
+{
+    //if debbie's suggestion for "pref" is approved
+    //int i;
+    //for (i=FIRST;i>=UNWILL;i--)  Course = pref(TA, Course, Code, i);
+    
+    Course = prefFirst(TA, Course, Code);
+    Course = prefSecond(TA, Course, Code);
+    Course = prefThird(TA, Course, Code);
+    Course = prefWill(TA, Course, Code);
+    Course = prefUnwill(TA, Course, Code);
+    Course = prefLeft(TA, Course, Code);
+    return Course;
+}
+*/
+
+/**suggested bySeniority*******************************************************/
+// returns: stable sorted Course vector first by perference then by seniority
+vector <Student*>* [NUM_COURSE] Sorting::bySeniority(vector <Student*> Course)
+{
+    unsigned int i, j;                          
+    int swappedFlag = 1;
+    for (j=0;j<NUM_COURSES;j++){
+        swappedFlag=1;
+        while(swappedFlag == 1){
+              swappedFlag = 0;
+              for(i = 0; i < (Course[j].size())-1; i++){
+                    // if two TAs, i and i+1, have the SAME preference for Course j and TA i+1 higher senority, then swap TA i and i+1
+                    if(Course[j][i]->level < Course[j][i+1]->level && Course[j][i]->pref[i] == Course[j][i+1]->pref[i+1]){
+                //swap two students
+                Course[j].insert(Course[j].begin()+(i+2), Course[j][i]);
+                Course[j].erase(Course[j].begin()+i);
+                swappedFlag = 1;
+              }
+        }
+    }
+    return Course;
+}
+/**end**suggestioned bySeniority***********************************************/
+
+// ORIGINAL: returns course with higher seniority at front ... but not stable?
 vector <Student*> Sorting::bySeniority(vector <Student*> Course)
 {
     int swappedFlag = 1;
@@ -168,7 +213,7 @@ vector <Student*> Sorting::bySeniority(vector <Student*> Course)
     {
 
         swappedFlag = 0;
-        //bubble sort
+        //bubble sort (kevin, is there a particular reason we're using bubble sort?)
         unsigned int i;
         for(i = 0; i < (Course.size())-1; i++)
         {
