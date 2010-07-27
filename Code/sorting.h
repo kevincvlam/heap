@@ -5,17 +5,17 @@
 class Sorting{
 
 private:
+vector <Student*> pref(vector <Student*> TA, vector <Student*> Course, int Code, int preference); // see .cpp for details.
+/*
 vector <Student*> prefFirst(vector <Student*> TA, vector <Student*> Course, int Code);
 vector <Student*> prefSecond(vector <Student*> TA, vector <Student*> Course, int Code);
 vector <Student*> prefThird(vector <Student*> TA, vector <Student*> Course, int Code);
 vector <Student*> prefWill(vector <Student*> TA, vector <Student*> Course, int Code);
 vector <Student*> prefUnwill(vector <Student*> TA, vector <Student*> Course, int Code);
+*/
 vector <Student*> prefLeft(vector <Student*> TA, vector <Student*> Course, int Code);
+
 public:
-
-
-
-
 
 void printNames(vector<Student*> x);
 vector <Student*> storePref(vector <Student*> TA, vector <Student*> Course, int Code);

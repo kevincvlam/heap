@@ -34,6 +34,25 @@ void Sorting::printAssignment(vector <Student*> Course[NUM_COURSES], int level) 
 }
 /**Private Functions **/
 
+/** debbie's suggestion************************************************/
+// can we combine all the preference functions into one like this?
+// ... let me know if i'm not understanding something fundamental about these functions xD
+vector <Student*> Sorting::pref(vector <Student*> TA, vector <Student*> Course, int Code, int preference)
+{
+    //for every TA, if he/she ranks the course as 1st, append that TA to Course
+    unsigned int i;
+    for(i =0; i< TA.size(); i++)
+    {
+        if(TA[i]->pref[Code] == preference)
+        {
+           // cout << TA[i]->firstName << endl;
+            Course.push_back(TA[i]);
+        }
+    }
+    return Course;
+}
+/** end debbie's suggestion********************************************/
+/*
 vector <Student*> Sorting::prefFirst(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
@@ -106,7 +125,7 @@ vector <Student*> Sorting::prefUnwill(vector <Student*> TA, vector <Student*> Co
     }
     return Course;
 }
-
+*/
 vector <Student*> Sorting::prefLeft(vector <Student*> TA, vector <Student*> Course, int Code)
 {
     //for every TA, if he/she ranks the course as 1st, append that TA to Course
@@ -129,12 +148,16 @@ vector <Student*> Sorting::prefLeft(vector <Student*> TA, vector <Student*> Cour
 
 vector <Student*> Sorting::storePref(vector <Student*> TA, vector <Student*> Course, int Code)
 {
+    int i;
+    for (i=FIRST;i>=UNWILL;i--)  Course = pref(TA, Course, Code, i);
+    /*
     Course = prefFirst(TA, Course, Code);
     Course = prefSecond(TA, Course, Code);
     Course = prefThird(TA, Course, Code);
     Course = prefWill(TA, Course, Code);
     Course = prefUnwill(TA, Course, Code);
     Course = prefLeft(TA, Course, Code);
+    */
     return Course;
 }
 
