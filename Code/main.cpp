@@ -15,16 +15,15 @@ int main(int argc, char* argv[]) {
 
 
     //Store an Initial List of Students, based on preference
+ 
     int j;
     for(j = 0; j < NUM_COURSES; j++)
     {
-    Courses[j] = sort.storePref(TAinfo, Courses[j], j);
-    Courses[j] = sort.byTAshipsOwed(Courses[j]);
-    Courses[j] = sort.bySeniority(Courses[j]); //sort the new list by seniority
-    Courses[j] = sort.byPrevAppts(Courses[j], j);
-
-    Courses[j] = score.forCourse(Courses[j], j);
-    Courses[j] = sort.byScore(Courses[j], j);
+       sort.storePref(TAinfo, Courses[j], j);
+       sort.bySeniority(Courses[j], j);
+       sort.byPrevAppts(Courses[j], j);
+       sort.byScore(Courses[j], j);
+       sort.byOwed(Courses[j]);
     }
 
     //test

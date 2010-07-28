@@ -199,13 +199,13 @@ vector <Student*> Input::store_info(const char * file){
 
     //testing input of random things
 
-    unsigned int i,/*j*/;
-    for (i=0; i<(unsigned)info.size(); i++){
+    //unsigned int i,/*j*/;
+    //for (i=0; i<(unsigned)info.size(); i++){
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
         }*/
-        //cout << i << ". " << info[i]->firstName << " " << info[i]->TAhoursOwed /*<< " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
-    }
+        //cout << i+1 << ". " << info[i]->firstName /*<< " " << info[i]->TAhoursOwed << " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
+    //}
 
     return info;
 
