@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1280167137 source:c:\users\kevin lam\dev\heap\code\score.cpp
+	"input.h"
+	"student.h"
+	"score.h"
+
+1280077456 c:\users\kevin lam\dev\heap\code\input.h
+	"definitions.cpp"
+	"student.h"
+
+1280167137 c:\users\kevin lam\dev\heap\code\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280167137 c:\users\kevin lam\dev\heap\code\student.h
+	"definitions.cpp"
+
+1280167137 c:\users\kevin lam\dev\heap\code\score.h
+	"student.h"
+
+1280167137 source:c:\users\kevin lam\dev\heap\code\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280538585 source:c:\users\kevin lam\dev\heap\code\input.cpp
+	"input.h"
+
+1280538585 source:c:\users\kevin lam\dev\heap\code\main.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+	"score.h"
+
+1280538585 c:\users\kevin lam\dev\heap\code\sorting.h
+	"student.h"
+
+1280538585 source:c:\users\kevin lam\dev\heap\code\sorting.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+
