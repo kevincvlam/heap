@@ -1,7 +1,39 @@
 #include "input.h"
+#include <math.h>
 
 Input::Input(){
     numTA = 0;
+}
+
+vector <int> Input::store_courseinfo(const char * file)
+{
+    vector <int> courseinfo;
+    courseinfo.push_back(4);
+    courseinfo.push_back(4);
+    //for the two courses with no enrollment
+
+    //read in file
+    ifstream in (file);
+    string s;
+    while (getline(in,s)){
+        if (s.rfind("Enrolment:",s.size()-1)!=string::npos){
+            int enrolled = convert_int(s.substr(s.rfind("*",s.size()-1)+8,s.rfind(")",s.size()-1)-1));
+            double TAships = enrolled*2.5/54.0;
+            //round up to nearest ones place
+            if(((int)(TAships*10))%10 >=5)
+            TAships = ceil(TAships);
+            else
+            TAships = floor(TAships);
+
+            courseinfo.push_back((int)TAships);
+        }
+
+
+    s.clear();
+    }
+    in.close();
+
+    return courseinfo;
 }
 
 vector <Student*> Input::store_info(const char * file){

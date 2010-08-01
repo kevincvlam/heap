@@ -4,7 +4,7 @@
 	"student.h"
 	"score.h"
 
-1280077456 c:\users\kevin lam\dev\heap\code\input.h
+1280697775 c:\users\kevin lam\dev\heap\code\input.h
 	"definitions.cpp"
 	"student.h"
 
@@ -30,10 +30,11 @@
 	<string>
 	<sstream>
 
-1280538585 source:c:\users\kevin lam\dev\heap\code\input.cpp
+1280700698 source:c:\users\kevin lam\dev\heap\code\input.cpp
 	"input.h"
+	<math.h>
 
-1280538585 source:c:\users\kevin lam\dev\heap\code\main.cpp
+1280700232 source:c:\users\kevin lam\dev\heap\code\main.cpp
 	"input.h"
 	"student.h"
 	"sorting.h"

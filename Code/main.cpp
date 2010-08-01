@@ -10,12 +10,14 @@ int main(int argc, char* argv[]) {
     Sorting sort;
     Score score;
     vector <Student*> TAinfo;
-    TAinfo = in.store_info(argv[1]); //reads in ta_stats
+    TAinfo = in.store_info(argv[1]);//reads in ta_stats
+    vector <int> TAships = in.store_courseinfo("course_stats.txt"); //store enrollment for each course
+
     vector <Student*> Courses[NUM_COURSES];  //Each course starts as an empty vector of students
 
 
     //Store an Initial List of Students, based on preference
- 
+
     int j;
     for(j = 0; j < NUM_COURSES; j++)
     {
@@ -27,8 +29,13 @@ int main(int argc, char* argv[]) {
     }
 
     //test
-    sort.printNames(Courses[1]);
-    sort.printAssignment(Courses, 0);
+   // sort.printNames(Courses[1]);
+    //sort.printAssignment(Courses, 0);
+    int k;
+    for(k=0; k < TAships.size(); k++)
+    {
+        printf("%d\n", TAships[k]);
+    }
     return 0;
 
 }
