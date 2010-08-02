@@ -39,3 +39,18 @@ int main(int argc, char* argv[]) {
     return 0;
 
 }
+
+//Potential Next Steps:
+//     - make list of priority of courses (perhaps by year of study?)
+//     - view TA rankings for courses in the order of list above
+//       - for every course, take the first TAships[code] number of TAs
+//             - for every TA that is taken for the course, subtract 54 hours from TAshipsOwed
+//             - update rankings based on TAs that have been taken for the course
+//     - if courses all have at least TAships[code] number of TAs
+//       - [option 1] look at the course with the smallest TA:enrolment ratio and see if the next TA in rank has a guarantee
+//              - if they do, assign them
+//              - if not, continue to course with next lowest TA:enrolment, (TA:enrolment must be recaculated after every assignment)
+//       - [option 2] for every TA who still has a guarantee after this
+//              - look at the top 3 preferences, and assign them to the course out of those three that have the lowest TA:enrolment
+//     - if all TAs with guarantees have been assigned and maxTA:enrolment > 2*minTA:enrolment 
+//              - while maxTA:enrolment > 2*minTA:enrolment, assign next TA in ranking for the course with minTA:enrolment
