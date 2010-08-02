@@ -27,16 +27,17 @@ int main(int argc, char* argv[]) {
        sort.byScore(Courses[j], j);
        sort.byOwed(Courses[j]);
     }
+    sort.printAssignment(Courses, 0);
 
-    //test
-   // sort.printNames(Courses[1]);
-    //sort.printAssignment(Courses, 0);
-    unsigned int k;
-    for(k=0; k < TAships.size(); k++)
-    {
-        printf("%d\n", TAships[k]);
-    }
-    return 0;
+//    //test
+//   // sort.printNames(Courses[1]);
+//    //sort.printAssignment(Courses, 0);
+//    unsigned int k;
+//    for(k=0; k < TAships.size(); k++)
+//    {
+//        printf("%d\n", TAships[k]);
+//    }
+//    return 0;
 
 }
 
