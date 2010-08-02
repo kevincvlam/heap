@@ -73,10 +73,20 @@ struct Student{
        //option 2:
        int taken[NUM_COURSES]; // taken[COURSECODE] = grade for COURSECODE; -1 if course was not taken
 
+
+
+       //extra descriptors
+       //perhaps an assigned boolean
+       // ID of student
+       unsigned int id;
+       unsigned int isAssigned;
+
        Student(){
           int i;
           for (i=0; i<NUM_COURSES; i++) {   taken[i] = -1;
           score[i] = 0;}
+          isAssigned = 0;
+
        }
 };
 

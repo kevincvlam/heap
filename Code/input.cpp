@@ -47,6 +47,7 @@ vector <Student*> Input::store_info(const char * file){
         if (s.rfind("First name",s.size()-1)!=string::npos){
             Student *TA = new Student;
             TA->firstName = s.substr(12,s.size()-1);
+            TA->id = numTA;
             info.push_back(TA);            numTA++;
         } else if (s.rfind("Middle name",s.size()-1)!=string::npos){
             info[numTA-1]->middleName = s.substr(13,s.size()-1);
@@ -231,12 +232,12 @@ vector <Student*> Input::store_info(const char * file){
 
     //testing input of random things
 
-    //unsigned int i,/*j*/;
-    //for (i=0; i<(unsigned)info.size(); i++){
+ //   unsigned int i/*j*/;
+   // for (i=0; i<(unsigned)info.size(); i++)
         /*for (j=0;j<NUM_COURSES;j++){
             cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
         }*/
-        //cout << i+1 << ". " << info[i]->firstName /*<< " " << info[i]->TAhoursOwed << " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
+     //   cout << info[i]->id << ". " << info[i]->firstName /*<< " " << info[i]->TAhoursOwed << " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
     //}
 
     return info;
