@@ -1,0 +1,50 @@
+# Note: HLP101H and HLP101HTAH have no enrolment figures, since they are
+# help-centre TAs.  For other courses, the enrolment is the last number in
+# the Scheme expression: (... N.0) --- N is the enrolment.
+===========================================================================
+
+HLP101H - Help Centre TA
+
+HLP101HTAH - Help Centre Head TA
+
+CSC108H - Introduction to Computer Programming
+	Instructor(s): Freund <joey@cs>, R6-9
+	Tutorials: W4-6, R2-4
+
+Enrolment: (/ (* 54 5) 85.0) 3.176470588235294
+
+CSC148H - Computer Science for the Sciences
+	Instructor(s): Irzak <oirzak@cs>, Thron <giovanna@cs>, R4-6
+	Tutorials: T4-6, W2-4
+
+Enrolment: (/ (* 54 5) 84.0) 3.2142857142857144
+
+CSC165H - Mathematical Expression and Reasoning for Computer Science
+	Instructor(s): Zimny <bzimny@cs>, W6-9
+	Tutorials: T4-6
+
+Enrolment: (/ (* 54 3) 55.0) 2.9454545454545453
+
+CSC207H - Software Design
+	Instructor(s): Nowak <dave@cs>, T6-8
+	Tutorials: T8
+
+Enrolment: (/ (* 54 2) 35.0) 2.6341463414634148
+
+CSC209H - Software Tools and Systems Programming
+	Instructor(s): Lockwood <lockwood@cs>, W7-9
+	Tutorials: W6
+
+Enrolment: (/ (* 54 3) 41.0) 3.951219512195122
+
+CSC324H - Principles of Programming Languages
+	Instructor(s): Tafliovich <anya@cs>, T6-8
+	Tutorials: T8
+
+Enrolment: (/ (* 54 3) 51.0) 3.176470588235294
+
+CSC373H - Algorithm Design and Analysis
+	Instructor(s): Chaplick <chaplick@cs>, R6-8
+	Tutorials: R8
+
+Enrolment: (/ (* 54 4) 54.0) 4.0
