@@ -1,0 +1,6528 @@
+Received: Thursday, March 11, 2010 at 16:31:54
+First name: Frank
+Middle name: 
+Last name: Rstuvwx
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 1
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 2
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 1
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 2
+simulations: 1
+systems modelling: 1
+numerical methods: 1
+business: 0
+Past TAships: 3
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,54,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 16:43:44
+First name: Kevin
+Middle name: 
+Last name: Stuvwxy
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 1
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 1
+TAships owed (database): 108,54,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 16:46:53
+First name: Dejana
+Middle name: 
+Last name: Tuvwxyz
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC363H1  Complex & Comput                         87  A       
+ CSC410H1  Software Test & Verif                     86  A   
+ CSC2104H  PROGRAM DESIGN                                 A- 
+ CSC2125H  TOPICS IN SOFTWARE ENGINEERING                A+ 
+ CSC2527H  BUSINESS OF SOFTWARE                           A+ 
+ CSC2405H  AUTOMATA THEORY         in progress 
+     
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 2
+UML: 2
+Unix/Linux: 0
+tools: 0
+shell: 1
+make: 0
+assembly: 0
+logic design: 1
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 1
+databases: 2
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 2
+Past TAships: 2
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: pref
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: pref
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: 3rd
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 2nd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 16:57:38
+First name: Mo
+Middle name: 
+Last name: Tuvwxyza
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken:   	Winter 2010 
+ 	 
+ 
+    * CSC2405 Automata Theory 
+ 
+  	Fall 2009 
+ 	 
+ 
+    * CSC2401 Computational Complexity 
+ 
+  	Winter 2009 
+ 	 
+ 
+    * ECE1770 Trends in Middleware Systems - Selected Topics and Concepts 
+ 
+  	Winter 2008 
+ 	 
+ 
+    * CSC2525 Research Topics in Data Management 
+ 
+  	Winter 2007 
+ 	 
+ 
+    * CSC2411 Linear Programming and Combinatorial Optimization 
+    * CSC2431 Computational Structural Biology 
+    * CSC2512 Constraint Satisfaction Problems 
+ 
+  	Fall 2006 
+ 	 
+ 
+    * CSC2502 Knowledge Representation and Reasoning (Audit) 
+    * CSC2508 Advanced Database Management Systems 
+    * CSC2515 Machine Learning 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 2
+Python: 2
+HTML: 2
+UML: 1
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 2
+information theory: 2
+interface design: 1
+databases: 2
+concurrency: 1
+networks: 1
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 1
+Past TAships: 7
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,163.9 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 5
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 2
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 1
+Preference for CSC207H: 2nd
+Prev. appts. for CSC209H: 1
+Preference for CSC209H: 2nd
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 18:11:32
+First name: Siavosh
+Middle name: 
+Last name: Uvwxyzab
+Level of study: PhD
+Start of program: 2008 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 1
+TAships owed (database): 108,0,81 [54,54]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 5
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 18:58:23
+First name: Peter
+Middle name: Stephen
+Last name: Vwxyzabc
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Waterloo, CHE 102, Chemistry for Engineers, 81% 
+ University of Waterloo, CS 343, Concurrent and Parallel Programming, 88% 
+ University of Waterloo, SE 382, Human-computer Interaction, 90% 
+ University of Waterloo, CS 457, System Performance Evaluation, 93% 
+ University of Waterloo, CS 341, Algorithms, 100% 
+ University of Waterloo, SE 463, Software Requirements Specification and Analysis, 90% 
+ University of Waterloo, CS 348, Introduction to Database Management, 94% 
+ University of Waterloo, ECE 354, Real-time Operating Systems, 94% 
+ University of Waterloo, CS 466, Algorithm Design and Analysis, 95% 
+ University of Waterloo, MUSIC 140, Popular Music and Culture, 97% 
+ University of Waterloo, ANTH 102, Introduction to Social and Cultural Anthropology. 90% 
+ University of Waterloo, SE 362, Software Project Management, 91% 
+ University of Waterloo, ECE 454, Distributed and Network Computing, 93% 
+ University of Waterloo, ECE 428, Computer Networks and Security, 98% 
+ University of Waterloo, SE 464, Software Design and Architectures, 100% 
+ University of Waterloo, BIOL 139, Genetics, 89% 
+ University of Waterloo, CS 370, Numerical Computation, 90% 
+ University of Waterloo, CS 444, Compiler Construction, 97% 
+ University of Waterloo, SE 465, Software Testing and Quality Assurance, 98% 
+ University of Waterloo, ECON 101, Introduction to Microeconomics, 96% 
+ University of Toronto, ECE 1724, Special Topics in Software Engineering: Dependable Systems, A+ 
+ University of Toronto, CSC 2504, Computer Graphics, A+ 
+ University of Toronto, ECE 540, Optimizing Compilers, In Progress 
+ University of Toronto, CSC 2227, Topics in the Design and Implementation of Operating Systems, In Progress
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 1
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 0
+compilers: 1
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 2
+Other experience: In the spring of 2006, I taught a preparatory course for the physics section of the Medical College Admissions Test. I was employed by the Princeton Review. I taught 2 sections of 30 students for 3 hours per week (i.e., 30 students for 3 hours on one day, then 30 other students for 3 more hours on another day). The material I taught was a the first year university level. I created my lessons based on the contents of a textbook. In the fall of 2009, I taught a 1-hour tutorial twice per week for CSC 180 at the University of Toronto. In the winter of 2010, I marked assignments and exams for CSC 369 at the University of Toronto. 
+
+TAships owed: -1
+TAships owed (database): 108,0,216 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 2nd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 2nd
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 3rd
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 21:30:38
+First name: Thanh
+Middle name: 
+Last name: Wxyzabcd
+Level of study: MSc
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2401H  INTRO TO COMPUT COMP                     0.50      B 
+ CSC2544H  SEARCHING AND MINING THE WEB             0.50      B+ 
+ CSC2511H  NATURAL LANG COMPUTING                   0.50      A 
+ CSC2543H  XML RETRIEVAL                            0.50      A- 
+ CSC2203H  PACKET SWITCH NET ARCHITECTURE           0.50      A 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 1
+Unix/Linux: 1
+tools: 1
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 1
+Past TAships: 4
+Other experience: I tutored python, c, c++, databases for the past 2 years
+TAships owed: -1
+TAships owed (database): 0,0,189 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 5
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 5
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 1
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, March 11, 2010 at 23:46:27
+First name: Velian
+Middle name: 
+Last name: Xyzabcde
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto (Graduate Courses): 
+ CSC2107 - Compilers and Interpreters - In Progress 
+ CSC2431 - Topics in Computational Biology - In Progress 
+ CSC2514 - Human-Computer Interaction - A 
+ 
+ Carleton University (most recent first):  
+ CGSC4908 - Cognitive Science Honours Project - A- 
+ COMP4900 - Intro. to Computer Vision - A  
+ MATH1007 - Elementary Calculus 1 - A+  
+ MATH1107 - Linear Algebra 1 - A-  
+ COMP3007 - Programming Paradigms - A+  
+ COMP3804 - Design & Analysis of Algorithms - A+  
+ COMP4106 - Artificial Intelligence - A  
+ CGSC4101 - Co-op Work Term 3 - Satisfactory  
+ CGSC4101 - Co-op Work Term 2 - Satisfactory  
+ 
+ University of Edinburgh:  
+ U02406 - Computer Design - B  
+ U02404 - Genetic Algorithms and Genetic Programming - A  
+ U02802 - Introduction to Vision and Robotics - A  
+ PP9976 - Logic 1 - A  
+ U03533 - Database Systems - F
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 0
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 1
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 1
+logic design: 1
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 2
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 2
+Other experience: For three terms I was an instructor for the Association of Bright Children of Ottawa's Take-Off program, teaching courses in math, history, game design and computer science to children aged 11-14. For three years I led drama workshops for high-school level students. I have occasionally tutored in discrete mathematics, JAVA and logic.
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, March 12, 2010 at 10:40:51
+First name: Christian
+Middle name: James
+Last name: Yzwabcdef
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken: CSC2404H  COMPUTABILITY & LOGIC                    0.50      A- 
+ CSC2542H  TOPICS IN KNOWL REP & REASON             0.50      A+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 1
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 2
+digital circuits: 1
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 1
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 13, 2010 at 00:22:28
+First name: Lawrence
+Middle name: Man Ho
+Last name: Zabcdefg
+Level of study: BSc
+Start of program: 2005 Sep
+Department: DCS
+Other department: 
+Courses taken: Taken from ROSI (U of T): 
+ 
+ CSCA08H3  Introduction to Computer Programming     0.50  83  A-     C+ 
+ ECMA01H3  Introduction to Microeconomics           0.50  83  A-     C+ 
+ MATA30H3  Calculus I                               0.50  85  A      C 
+ MGTA03H3  Introduction to Management I             0.50  72  B-     C+ 
+ CSCA48H3  Introduction to Computer Science         0.50  71  B-     C 
+ CSCA65H3  Mathematical Expression and Reasoning    0.50  68  C+     C+ 
+          for Computer Science 
+ MATA23H3  Linear Algebra I                         0.50  60  C-     C- 
+ MATA37H3  Calculus II for Mathematical Sciences    0.50  63  C      C 
+ CSC207H1  Software Design                          0.50  76  B      C 
+ CSC236H1  Intro to Theory Comp                     0.50  71  B-     C- 
+ CSCC24H3  Principles of Programming Languages      0.50  63  C      C+ 
+ MATB24H3  Linear Algebra II                        0.50  75  B      B- 
+ MATB41H3  Techniques of the Calculus of Several    0.50  70  B-     C+ 
+          Variables I 
+ PHYA10H3  Introduction to Physics I                0.50  60  C-     C 
+ CSCB09H3  Software Tools and Systems Programming   0.50  75  B      B- 
+ MATB42H3  Techniques of the Calculus of Several    0.50  61  C-     C+ 
+          Variables II 
+ MATB61H3  Linear Programming and Optimization      0.50  57  D+     C 
+ MGTA04H3  Introduction to Management II            0.50  78  B+     C+ 
+ PHYA21H3  Introduction to Physics II               0.50  61  C-     C 
+ CSC258H1  Computer Organizatn                      0.50  81  A-     C+ 
+ CSC263H1  Data Struct & Anal                       0.50  76  B      C 
+ MAT244H1  Ordinary Diff Equat                      0.50  79  B+     C+ 
+ CSCC50H3  Numerical Algebra and Optimization       0.50  78  B+     * 
+ CSCC85H3  Microprocessor Systems                   0.50  92  A+     B- 
+ PHYB10H3  Intermediate Physics Laboratory I        0.50  80  A-     B+ 
+ CSCC43H3  Introduction to Databases                0.50  90  A+     B- 
+ CSCC51H3  Numerical Approximation, Integration and 0.50  80  A-     * 
+          Ordinary Differential Equations 
+ CSCC69H3  Operating Systems                        0.50  96  A+     B- 
+ PHYB11H3  Intermediate Physics Laboratory II       0.50  80  A-     B+ 
+ PHYB21H3  Electricity and Magnetism                0.50  63  C      * 
+ CSC373H1  Algo Design & Analysis                   0.50  80  A-     C+ 
+ CSCD03H3  Social Impact of Information Technology  0.50  84  A-     * 
+ CSCC63H3  Computability and Computational          0.50      IPR 
+          Complexity 
+ CSCD58H3  Computer Networks                        0.50      IPR 
+ HLTA01H3  Plagues and Peoples                      0.50      IPR 
+ PHYC24H3  Quantum Physics I                        0.50      IPR 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 0
+make: 0
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 1
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 1
+Other experience: CSCC36H3 Numerical Methods Teaching Assistant (U of T)
+TAships owed: 0
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 4
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: pref
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 3rd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 13, 2010 at 10:52:38
+First name: Tian
+Middle name: Tyler
+Last name: Abcdefgh
+Level of study: PhD
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2206 Systems Modelling and Analysis, U of Toronto, Grade: in progress 
+ CSC2125 Software Consulting: Government 2.0, U of Toronto, Grade: A 
+ CO750 Approximation Algorithms, U of Waterloo, Grade: 95/100  
+ CS 760 Clustering Theory, U of Waterloo, Grade: 95/100  
+ CS 866 Statistical Methods in Natural Language Processing and IR, Grade: 92/100  
+ STAT 860 Statistical Learning: Classification, Grade: 93/100
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 1
+BASIC: 2
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 2
+Matlab: 1
+RCS: 0
+Perl: 1
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 8
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,110 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: pref
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 13, 2010 at 20:14:26
+First name: Hanieh
+Middle name: 
+Last name: Bcdefghi
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto CSC2522H  Advanced Image Synthesis A- 
+ University of Toronto CSC2125H  Topics in Software Engineering A 
+ University of Toronto INF1343H  Data Modeling and Database Design "In Progress"
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 1
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 2
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 1
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 13+
+Other experience: 
+TAships owed: -1
+TAships owed (database): 162,223,324 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 5
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 13, 2010 at 21:06:07
+First name: Michael
+Middle name: 
+Last name: Cdefghij
+Level of study: PhD
+Start of program: 2007 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 2
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,108,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, March 15, 2010 at 00:39:05
+First name: Can
+Middle name: 
+Last name: Cdefghijk
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto 
+ 
+ MAT337 Real Analysis A+ 
+ CSC491 Capstone Project A 
+ CSC494 Project in CS  A- 
+ CSC418 Computer Graphics  A 
+ CSC365 Computational Complexity  B+ 
+ CSC373 Algorithm Design & Analysis  A+ 
+ CSC458 Computer Networks  A- 
+ CSC2301 Computational Complexity A 
+ CSC2515 Introduction to Machine Learning  In Progress 
+ CSC2307 Numerical Software  In Progress 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 1
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 2
+Other experience: 
+TAships owed: 0
+TAships owed (database): 108,0,110 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: pref
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: pref
+Prev. appts. for CSC209H: 1
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: pref
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, March 15, 2010 at 20:53:36
+First name: Chuck (Chengyan)
+Middle name: C
+Last name: Defghijk
+Level of study: PhD
+Start of program: 2004 Jan
+Department: DCS
+Other department: 
+Courses taken: I have completed all required courses for my CS Ph.D. 2 years ago. 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 2
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 1
+CSim: 1
+Maple: 1
+Matlab: 1
+RCS: 1
+Perl: 1
+Python: 1
+HTML: 2
+UML: 1
+Unix/Linux: 2
+tools: 1
+shell: 1
+make: 2
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 1
+web programming: 2
+information theory: 1
+interface design: 1
+databases: 1
+concurrency: 2
+networks: 1
+compilers: 2
+statistics: 1
+simulations: 2
+systems modelling: 1
+numerical methods: 1
+business: 1
+Past TAships: 9
+Other experience: TAed many CS undergraduate course, from 1st year to 4th year 
+ (CSC104, 108, 140, 141, 180, 181, 190, 237, 239, 307, 309, 488, etc.)
+TAships owed: 3
+TAships owed (database): 0,0,239 [0,0]
+TAships wanted: 2
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 2
+Preference for CSC207H: 2nd
+Prev. appts. for CSC209H: 2
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 17, 2010 at 21:12:57
+First name: Milad
+Middle name: 
+Last name: Defghijklm
+Level of study: PhD
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: UofT, ECE 1505, Convex Optimization, in progress 
+ UofT, CSC 2203, Packet Switch and Network Architecture, A+ 
+ UofT, CSC 2514, Human Computer Interaction, A+  
+ Sharif University of Technology, 40534, Advanced Operating Systems, 18.9/20 Sharif University of Technology, 40714, Data Mining, 18.7/20  
+ Sharif University of Technology, 40938, Advanced Database Design, 19.6/20 Sharif University of Technology, 40647, Parallel Processing, 16.2/20  
+ Sharif University of Technology, 40684, Formal Program Development, 18/20 Sharif University of Technology, 40725, Statistical Pattern Recognition, 18.5/20  
+ Sharif University of Technology, 40724, Software Development Methodologies, 17.2/20  
+ Sharif University of Technology, 40797, Game Theory, 16.9/20
+reading: 2
+writing: 2
+conversation: 1
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 1
+make: 0
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 1
+databases: 2
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 1
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, March 19, 2010 at 01:41:08
+First name: Xiaofan
+Middle name: 
+Last name: Efghijklm
+Level of study: BSc
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto 
+ 2008 Fall 
+ ACTB40H3 (Fundamentals of Investment and Credit): 87; 
+ CSCC50H3 (Numerical Algebra and Optimization): 90; 
+ CSC373H1 (Algo Design & Analysis):80; 
+ MATB44H3 (Differential Equations):96; 
+ STAC62H3 (Stochastic Processes):89;  
+ STAC67H3 (Regression Analysis):92; 
+ 
+ 2009 Winter 
+ CSCC43H3(Introduction to Databases): 85  
+ ECMB06H3(Macroeconomic Theory and Policy): 85  
+ MATB42H3(Techniques of the Calculus of Several Variables II):88  
+ MATB43H3(Introduction to Analysis): 87 
+ MATC46H3(Differential Equations II): 83  
+ STAC57H3(Time Series Analysis):92  
+ STAC70H3(Statistics and Finance):99 
+ 
+ 2009 Fall 
+ CSCD11H3(Machine Learning and Data Mining):86  
+ MATC01H3(Groups and Symmetry):93 
+ MATC09H3(Introduction to Mathematical Logic):92 
+ MATC34H3(Complex Variables):100  
+ 
+ 2010 Winter 
+ CSCC51H3(Numerical Approximation, Integration and ODEs): in progress; 
+ CSCC63H3(Computability and Complexity): in progress; 
+ CSCD03H3(Social Impact of Information Technology): in progress; 
+ MATC15H3(Introduction to Number Theory): in progress; 
+ MATC37H3(Introduction to Real Analysis): in progress; 
+ STAC42H3 Multivariate Analysis: in progress 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 0
+ML: 1
+CVS: 2
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 2
+tools: 1
+shell: 2
+make: 1
+assembly: 0
+logic design: 1
+digital circuits: 0
+graphics: 1
+web programming: 2
+information theory: 1
+interface design: 1
+databases: 2
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 2
+simulations: 0
+systems modelling: 0
+numerical methods: 2
+business: 2
+Past TAships: 6
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 4
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 2
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, March 19, 2010 at 19:43:39
+First name: Michael
+Middle name: Joseph
+Last name: Fghijklmno
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto 
+ 
+ Code     Course name                                               Grade 
+  ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ --------- 
+ CSC2232  Topics in Computer Systems Performance and Reliability    A- 
+ CSC2401  Introduction to Computational Complexity                  A- 
+ CSC2545  Kernel Methods and Support Vector Machines                B 
+ CSC2227  Topics in the Design and Implementation of OS             in progress   
+ 
+ UOIT (undergraduate) 
+ 
+ Code       Course name                                               Grade 
+  ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ --------- 
+ CSCI3150U  Computer Networks                                         A+ 
+ CSCI4400U  Thesis project                                            A 
+ CSCI4620U  Human-Computer Interaction                                A- 
+ CSCI4640U  Distributed Computing                                     A+ 
+ CSIC2160U  Digital Media                                             A+ 
+ CSCI4040U  Ethics, Law, and the Social Impact of Computing           A- 
+ MATH2060U  Differential Equations                                    A+ 
+ 
+ Trent University (undergraduate) 
+ 
+ Code        Course name                                             Grade 
+  ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ --------- 
+ PSYC101-V   Introduction to Psychology                              A+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 1
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 1
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 1
+Unix/Linux: 2
+tools: 2
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 1
+web programming: 2
+information theory: 1
+interface design: 1
+databases: 1
+concurrency: 1
+networks: 1
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 2
+Other experience: Informally tutored other lower year undergraduates in various subjects in our undergraduate lab,
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 3rd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, March 22, 2010 at 13:38:34
+First name: Yuli
+Middle name: 
+Last name: Ghijklmnop
+Level of study: PhD
+Start of program: 2007 Jan
+Department: DCS
+Other department: 
+Courses taken: Fall 2008  
+  
+ CSC2125	   Topics in Software Engineering                 A. Farzan  
+ Grade A 
+ 
+ Winter 2009  
+  
+ CSC2305	   Numerical Methods for Optimization Problems    T. Fairgrieve  
+ Grade A+ 
+ 
+ CSC2410	   Introduction to Graph Theory                   M. Molloy 
+ Grade A+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 3
+TAships owed (database): 162,108,0 [54,108]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 1
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, March 23, 2010 at 19:11:05
+First name: Avery
+Middle name: 
+Last name: Hijklmnop
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken: University of Toronto: CSC2429: THEORY OF COMPUTATION: Foundations of Proof Complexity, A-. CSC2429: THEORY OF COMPUTATION: Foundations of Communication Complexity, A-.
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 1
+ML: 1
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 1
+Python: 2
+HTML: 2
+UML: 2
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 2
+information theory: 1
+interface design: 0
+databases: 2
+concurrency: 1
+networks: 2
+compilers: 1
+statistics: 1
+simulations: 1
+systems modelling: 1
+numerical methods: 0
+business: 1
+Past TAships: 6
+Other experience: TA at the University of Waterloo: marker for linear algebra 2, staffed the Undergraduate Math Help Centre for 6 terms (calculus and classical algebra). TA at the University of Toronto: 3 terms staffing the Undergraduate Help Centre, TA for CSC108, CSC240, CSC363, Head TA for CSC263
+TAships owed: -1
+TAships owed (database): 108,108,108 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 3
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 1st
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 3rd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 2nd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 24, 2010 at 01:56:46
+First name: Michael 
+Middle name: 
+Last name: Ijklmnopq
+Level of study: BSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: UTSC, CSCA20H, Computer Science for the Sciences, in progress
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 0
+Other experience: September 2009   present 
+ Let s Talk Science     Toronto, ON 
+ 	Planning presentation strategies that best engage the audience 
+ 	Coordinating with colleagues to deliver exciting presentations to diverse student groups 
+ 	Collecting and preparing materials needed to enable smooth functioning of the presentation 
+
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 24, 2010 at 23:45:43
+First name: Amer
+Middle name: 
+Last name: Jklmnopqrs
+Level of study: MSc
+Start of program: 2009 Sep
+Department: ECE
+Other department: 
+Courses taken: All courses below are taken at the University of Toronto . 
+ 
+ Crs Code  Title                                    Wgt  Mrk  Grd   
+ CSC2221H  INTRO TO DISTRIBUTED COMPUTING           0.50      A- 
+ ECE1747H  PARALLEL PROGRAMMING                     0.50      A 
+ ECE1755H  PARALLEL COMP.ARCH.                      0.50      A- 
+ JDE1000H  ETHICS IN RESEARCH                       0.50      CR 
+ ECE1770H  TRENDS IN MIDDLEWARE SYSTEMS             0.50      A+ 
+ ECE568H1  Computer Security                        0.50      A- 
+ ECE1724H  Industry Perspectives on Comp. Security  Audit     NA 
+ RST9999Y  RESEARCH/THESIS                          0.00      IPR 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 1
+web programming: 2
+information theory: 0
+interface design: 2
+databases: 2
+concurrency: 2
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 1
+numerical methods: 0
+business: 1
+Past TAships: 4
+Other experience: Head Teaching Assistant, Communication and Design, University of Toronto			Winter 2010 
+  Planned course schedule and prepared Midterm/Final exam questions. 
+  Administered 20 TAs and coordinated between ten instructors. 
+  Held lecture style tutorials for more than 300 students. 
+  
+ Teaching Assistant 
+ Computer Security, Winter 2010, University of Toronto		 
+ Communication and Design, Winter 2009, University of Toronto						 
+  Graded exams, managed online discussion forums, and helped students with programming assignments. 
+  Prepared lessons and conducted tutorials for up to 40 students. 
+  The assignment were developed using the C programming language in addition to concurrency through threads, select and processes. 
+  Ruby programming language was used to test the computer security assignments/attacks that were developed in C. 
+ 
+ Special Teaching Assistant, Communication and Design, University of Toronto 
+ Fall 2009 
+  Redesigned course materials and assignments based on student feedback. 
+  Developed automated testing and marking scripts for student submissions.  
+  The tests were written in Check framework and bash scripts on Linux.
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 3
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: pref
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 3rd
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 27, 2010 at 12:39:33
+First name: Michael
+Middle name: 
+Last name: Klmnopqrst
+Level of study: MSc
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: ECE1508 Machine Learning and Probabilistic Inference A 
+ CSC2209H COMPUTER NETWORKS  A  
+ CSC2401H INTRO TO COMPUTATIONAL COMPLEXITY A+  
+ CSC2523H OBJECT MODELLING & RECOGNITION  A  
+ CSC2518H SPOKEN LANGUAGE PROCESSING  A+ 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 1
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 1
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 2
+simulations: 0
+systems modelling: 1
+numerical methods: 1
+business: 0
+Past TAships: 5
+Other experience: In Fall 2009, worked as a lecturer for CSC180 -- Introduction to Programming
+TAships owed: -1
+TAships owed (database): 0,0,216 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 2nd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 2nd
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 1
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, March 27, 2010 at 14:33:44
+First name: Navid
+Middle name: 
+Last name: Lmnopqrstu
+Level of study: PhD
+Start of program: 2010 Jan
+Department: other
+Other department: IBBME
+Courses taken: Advanced Topics in Multimedia Communications and Coding (A+) McMaster University 
+ Information Theory (A-) McMaster University 
+ Multimedia Communication and Compression (A+) McMaster University 
+ Matrix Computations (A+) McMaster University 
+ Medical imaging for physical scientists (A)McMaster University 
+ Mathematics of Medical Imaging (in progress) University fo Toronto
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 1
+C++: 1
+BASIC: 2
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 2
+digital circuits: 2
+graphics: 1
+web programming: 0
+information theory: 2
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 1
+simulations: 2
+systems modelling: 2
+numerical methods: 2
+business: 0
+Past TAships: 3
+Other experience: Private tutoring in first and second year undergraduate Mathematics, physics and Electrical Engineering courses.
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: pref
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Sunday, March 28, 2010 at 15:46:48
+First name: Georgios
+Middle name: George
+Last name: Mnopqrstu
+Level of study: PhD
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: [University of Toronto] CSC2415H Impossibility Rslts for Dist Comp < In progress> 
+ [University of Toronto] CSC2232H Topics in Comp Sys Perf & Rel < A> 
+ [University of Toronto] CSC2501H Computational Linguistics < A-> 
+ [University of Toronto] CSC2322H Numerical Sol. of BVPs for ODEs < A-> 
+ [University of Ioannina] PLE009 Computational Intelligence < A+ (10.0)> [University of Ioannina] PLY701 Computer Graphics < A- ( 9.0)> 
+ [University of Ioannina] PLY702 Software Engineering < A- ( 9.0)> 
+ [University of Ioannina] PLY602 Compilers < A+ (10.0)> 
+ [University of Ioannina] PLY604 Artificial Intelligence < A- ( 9.0)> 
+ [University of Ioannina] PLY606 Computer Networks < A ( 9.5)> 
+ [University of Ioannina] PLE007 Distributed Systems < A+ (10.0)> 
+ [University of Ioannina] PLE059 Data Mining < A+ (10.0)> 
+ [University of Ioannina] PLE005 Sim & Modeling of Comp Sys < A+ (10.0)>
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 1
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 2
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 1
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 2
+networks: 1
+compilers: 1
+statistics: 0
+simulations: 2
+systems modelling: 1
+numerical methods: 0
+business: 0
+Past TAships: 2
+Other experience: 
+TAships owed: 0
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: pref
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, March 29, 2010 at 23:23:41
+First name: Li-Nung
+Middle name: 
+Last name: Nopqrstuv
+Level of study: BSc
+Start of program: 2010 Jan
+Department: other
+Other department: mcs at utsc
+Courses taken: all courses taken at uoft 
+ CCT100H5  History of Communication Technologies     B      
+ CSC108H5  Introduction to Computer Programming      A+     
+ MAT102H5  Introduction to Mathematical Proofs       C+     
+ CCT101H5  Contemporary Communication Technologies   B      
+ CSC148H5  Introduction to Computer Science          A-      
+ MAT137Y5  Calculus                                 A-     
+ STA107H5  An Introduction to Probability and         C      
+ CLAA02H3  Classical Mythology I: Myth of the Gods    C-     
+ CSCB36H3  Introduction to the Theory of            D      
+          Computation 
+ MAT223H1  Linear Algebra I                     C-   
+ CSCB07H3  Software Design                      A-  
+ CSCB58H3  Computer Organization                     A-   
+ MATB24H3  Linear Algebra II                          C   
+ MATB41H3  Techniques of the Calculus of Several      D      
+          Variables I 
+ MGTA03H3  Introduction to Management I               B+    
+ CSCB09H3  Software Tools and Systems Programming     B-    
+ CSCB63H3  Design and Analysis of Data Structures       B 
+ CSCC36H3  Numerical Methods                           B- 
+ MATB42H3  Techniques of the Calculus of Several       D+ 
+          Variables II 
+ MGTA04H3  Introduction to Management II             C+ 
+ CSCC43H3  Introduction to Databases               B+    
+ CSCC63H3  Computability and Computational     D+   
+          Complexity 
+ CSC324H1  Prog Languages                        B      
+ CSC373H1  Algo Design & Analysis                   B      
+ MGTC74H3  Analysis for Decision-Making       B  
+ CSCC09H3  Programming on the Web                  B+     
+ CSCC40H3  Analysis and Design of Information       C   
+          Systems 
+ CSCD27H3  Computer and Network Security            A-   
+ MGTB23H3  Managing People in Organizations          D 
+ COPC03H3  Co-op work term - Computer Science         IPR 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 1
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 3
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 2
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 1
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, March 30, 2010 at 19:33:56
+First name: Niloofar
+Middle name: 
+Last name: Opqrstuvw
+Level of study: PhD
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: UofT - CSC2405H - AUTOMATA THEORY - in progress 
+ UofT - CSC2125H - TOPICS IN SOFTWARE ENGINEERING - A 
+ UofT - CSC2404H - COMPUTABILITY & LOGIC - A 
+ University of Tehran - 8101596 - ADVANCED DATABASES - A+ 
+ University of Tehran - 8101649 - ADVANCED SOFTWARE ENGINEERING - A+  
+ University of Tehran - 8101571 - FUNDAMENTALS Of COMPUTER NETWORKS - A 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 1
+BASIC: 2
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 2
+UML: 1
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 2
+concurrency: 2
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 1
+systems modelling: 0
+numerical methods: 0
+business: 1
+Past TAships: 2
+Other experience: 
+TAships owed: 2
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 1
+Preference for CSC373H: 3rd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, March 30, 2010 at 20:36:06
+First name: Dai Tri Man
+Middle name: 
+Last name: Pqrstuvwx
+Level of study: PhD
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto, MIE1510 Ontology Formal techniques in ontology engineering, A+; University of Toronto, CSC2417 Algorithms for Genome Analysis, A; University of Toronto, CSC2221, Introduction to Distributed Computing, A+; 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 1
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 1
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 2
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 1
+networks: 1
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,108,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 31, 2010 at 11:48:25
+First name: Matei
+Middle name: 
+Last name: Qrstuvwxy
+Level of study: BSc
+Start of program: 2007 Sep
+Department: other
+Other department: UTSC
+Courses taken: UTSC CSCA08H3  Introduction to Computer Programming     86 
+ UTSC MATA30H3  Calculus I                                                          78   
+ UTSC CSCA48H3  Introduction to Computer Science                80 
+ UTSC CSCB07H3  Software Design                                                71 
+ UTSC CSCB58H3  Computer Organization                                   72 
+ UTSC CSCC85H3  Microprocessor Systems                                  71  
+ UTSC CSCB09H3  Software Tools and Systems Programming  65 
+ UTSC CSCC40H3  Analysis and Design of Information  Systems 69 
+         
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 1
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 0
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 3rd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 3rd
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 31, 2010 at 19:23:27
+First name: Konstantinos
+Middle name: 
+Last name: Vutsrq
+Level of study: PhD
+Start of program: 2005 Sep
+Department: DCS
+Other department: 
+Courses taken: # CSC2221 Introduction to Distributed Computing 
+ # CSC2416 Machine Learning Theory 
+ # CSC214 Metric Embeddings 
+ CSC2307 Numerical Software 
+ CSC2401 Computational Complexity 
+ CSC2410 Introduction to Graph Theory 
+ CSC2125 Topics in Software Engineering 
+ CSC2426 Topics in Cryptography 
+ CSC2428 Theory of Computation: PCP & Hardness
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 1
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 9
+Other experience: CSC363 Computational Complexity and Computability (Winter 2007, Summer 2007, Fall 2008, Winter 2009, Winter 2010) 
+ CSC373 Algorithm Design and Analysis (Fall 2005, Winter 2006, Summer 2006, Summer 2009) 
+ CSC165 Mathematical Expression and Reasoning for Computer Science (Fall 2006, Winter 2010) 
+ CSC236 Introduction to the Theory of Computation (Winter 2008)
+TAships owed: 3
+TAships owed (database): 162,112.5,162 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 2
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 4
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, March 31, 2010 at 21:12:17
+First name: Monia
+Middle name: 
+Last name: Utsrqp
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: 2007 Fall - Doctor of Philosophy - Department of Computer Science  
+ Crs Code  Title                                    Wgt  Mrk  Grd  CrsAvg 
+ CSC2203H  PACKET SWITCH NET ARCHITECTURE           0.50      A+ 
+ CSC2514H  HUMAN COMP INTERACTN                     0.50      A+ 
+ RST9999Y  RESEARCH/THESIS                          0.00      IPR 
+ 
+ 2008 Winter - Doctor of Philosophy - Department of Computer Science  
+ Crs Code  Title                                    Wgt  Mrk  Grd  CrsAvg 
+ CSC2307H  NUMERICAL SOFTWARE                       0.50      A 
+ RST9999Y  RESEARCH/THESIS                          0.00      IPR 
+ 
+ 2008 Summer - Doctor of Philosophy - Department of Computer Science  
+ Crs Code  Title                                    Wgt  Mrk  Grd  CrsAvg 
+ RST9999Y  RESEARCH/THESIS                          0.00      IPR 
+ 
+ 2008 Fall - Doctor of Philosophy - Department of Computer Science  
+ Crs Code  Title                                    Wgt  Mrk  Grd  CrsAvg 
+ CSC2232H  SYSTEM PERFORMANCE/RELIABILITY           0.50      A 
+ RST9999Y  RESEARCH/THESIS                          0.00      IPR
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 2
+compilers: 1
+statistics: 1
+simulations: 1
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,108,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 1
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 01, 2010 at 15:01:37
+First name: abayomi
+Middle name: 
+Last name: Tsrqpo
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: university of toronto: 
+ csc2307 numerical software 
+ csc2125 topics in software engineering 
+ inf2183 knowledge management and systems
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 1
+Other experience: winter 2010 i tutored csc108 
+ I tutored at the university of the west indies in the department of computer science from 2001-2004. I tutored "Introduction to programming" and "discrete mathematics". 
+TAships owed: -1
+TAships owed (database): 108,0,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 02, 2010 at 12:19:27
+First name: Jennifer
+Middle name: 
+Last name: Srqpon
+Level of study: PhD
+Start of program: 2004 Sep
+Department: DCS
+Other department: 
+Courses taken: none (finished my courses more than 2 years ago)
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 1
+Unix/Linux: 1
+tools: 1
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 1
+Past TAships: 11
+Other experience: Have given several presentations at external conferences and internal research meetings. 
+ Supervised several 494/495 students on two different projects.  Have also supervised several summer students. 
+ Lead Writing TA for DCS from May 2008 to present, this involves benchmarking, rubric design, creating workshops and designing assignments. 
+ Received a TATP certificate. 
+
+TAships owed: 0
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 1
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 2nd
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 1
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 02, 2010 at 15:25:26
+First name: Siyu
+Middle name: Steven
+Last name: Rqponm
+Level of study: BSc
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: 2008 Fall - Honours Bachelor of Science (Computer Science - Co-op) 
+ CSCB07H3 Software Design 81 A- 
+ CSCB36H3 Introduction to the Theory of Computation 99 A+ 
+ ECMB02H3 Price Theory: A Mathematical Approach 91 A+ 
+ MATB24H3 Linear Algebra II 95 A+ 
+ MATB41H3 Techniques of the Calculus of Several Variables I 97 A+ 
+ STAB52H3 An Introduction to Probability 91 A+ 
+ 2009 Winter - Honours Bachelor of Science (Computer Science - Co-op) 
+ CSCB09H3 Software Tools and Systems Programming 83 A- 
+ CSCB63H3 Design and Analysis of Data Structures 90 A+ 
+ ECMB06H3 Macroeconomic Theory and Policy: A Mathematical Approach 88 A 
+ MATB42H3 Techniques of the Calculus of Several Variables II 93 A+ 
+ STAB57H3 An Introduction to Statistics 90 A+ C+ 
+ 2009 Summer - Bachelor's Degree Program - New College 
+ ACT230H1 Math of Finance 94 A+ 
+ CSC324H1 Prog Languages 91 A+ 
+ 2009 Fall - Bachelor's Degree Program - New College 
+ CSC336H1 Numerical Methods 90 A+ 
+ CSC343H1 Intro to Databases 88 A 
+ CSC363H1 Complex & Comput 90 A+ 
+ CSC384H1 Intro Artif Intell 93 A+  
+ MAT335H1 Chaos Fractals Dynam 96 A+ 
+ 2010 Winter - Bachelor's Degree Program - New College 
+ CSC258H1 Computer Organizatn IPR 
+ CSC320H1 Intro Visual Compt IPR 
+ CSC373H1 Algo Design & Analysis IPR 
+ MAT315H1 Intro Number Theory IPR
+reading: 1
+writing: 1
+conversation: 1
+Java: 2
+C: 1
+C++: 1
+BASIC: 2
+Prolog: 1
+Lisp/Scheme: 2
+ML: 1
+CVS: 1
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 2
+make: 1
+assembly: 1
+logic design: 2
+digital circuits: 0
+graphics: 1
+web programming: 1
+information theory: 1
+interface design: 1
+databases: 1
+concurrency: 1
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 0
+Other experience: Mentorship program in UTSC GreenPath Program
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: 3rd
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, April 03, 2010 at 12:34:47
+First name: Joel
+Middle name: 
+Last name: Qponml
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2401 - Introduction to Computational Complexity - University of Toronto  
+ CSC2221 - Distributed Computing. University of Toronto 
+ CSC2504 - Computer Graphics, University of Toronto 
+ CSC2415 - Impossibility Results in Distributed Computing 
+ Operating Systems, Ben-Gurion University, Israel 
+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 2
+Other experience: Private tutoring in courses such as: Automata Theory, Algorithm Design, Java and Introduction to Computer Science.
+TAships owed: -1
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 2nd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Sunday, April 04, 2010 at 18:08:12
+First name: xiaojun
+Middle name: 
+Last name: Ponmlk
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2524H  TPS-INTERACTIVE COMP          A   University of Toronto 
+ CSC2504H  COMPUTER GRAPHICS             A+  University of Toronto 
+ CSC2130H  EMPIRICAL RSH METHODS IN SE   A   University of Toronto 
+ 
+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 2
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 1
+logic design: 2
+digital circuits: 2
+graphics: 2
+web programming: 2
+information theory: 0
+interface design: 2
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 6
+Other experience: lecture tutorials for courses I TAed duirng past three years.
+TAships owed: 2
+TAships owed (database): 108,108,0 [108,108]
+TAships wanted: 2
+Min. TAships willing: 2
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, April 05, 2010 at 18:25:04
+First name: Saeed
+Middle name: 
+Last name: Onmlkj
+Level of study: PhD
+Start of program: 2008 Jan
+Department: ECE
+Other department: 
+Courses taken: DCS CSC2232H  SYSTEM PERFORMANCE/RELIABILITY                     A+ 
+ ECE ECE1770H  TRENDS IN MIDDLEWARE SYSTEMS                       A+ 
+ DCS CSC2227H  Topicss in the Design&Implementation of OS         A+ 
+ ECE ECE1771H  QUALITY OF SERVICE                                 A+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 1
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 1
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 4
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 3rd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Monday, April 05, 2010 at 19:57:02
+First name: Tijmen
+Middle name: 
+Last name: Nmlkji
+Level of study: PhD
+Start of program: 2007 Jan
+Department: DCS
+Other department: 
+Courses taken: STA2111H  PROBABILITY THEORY I                     0.50      A+ 
+ ECE1724H  SPECIAL TOPICS: S.E.                     0.50      A+ 
+ CSC2504H  COMPUTER GRAPHICS                        0.50      A+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 2
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,0,123 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 3
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 1
+Preference for HLP101HTAH: 1st
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 2
+Preference for CSC324H: 1st
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 06, 2010 at 12:42:05
+First name: Yang
+Middle name: Kobe
+Last name: Mlkjih
+Level of study: BSc
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto at Scarborough 
+ CSCA08H3 Introduction to Computer Programming              83 
+ ECMA04H3 Introduction to Microeconomics:                         84  
+ LINA01H3 General Linguistics I                                              72  
+ MATA30H3 Calculus I                                                             91  
+ MGTA03H3 Introduction to Management I                            78 
+ CSCA48H3 Introduction to Computer Science                       91  
+ CSCA65H3 Mathematical Expression and Reasoning              86  
+ ECMA06H3 Introduction to Macroeconomics:                       81 
+ MATA23H3 Linear Algebra I                                                   84  
+ MATA37H3 Calculus II for Mathematical Sciences                  84 
+ CSCB07H3 Software Design                                                     80  
+ CSCB36H3 Introduction to the Theory of Computation            73  
+ CSCB58H3 Computer Organization0                                        87 
+ MATB24H3 Linear Algebra II                                                     80  
+ MATB41H3 Techniques of the Calculus of Several Variables I    76   
+ STAB52H3 An Introduction to Probability                                80  
+ CSCB09H3 Software Tools and Systems Programming             80  
+ CSCC36H3 Numerical Methods                                                72  
+ ECMB05H3 Macroeconomic Theory and Policy                       78  
+ MATB42H3 Techniques of the Calculus of Several                   83
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 2
+make: 2
+assembly: 0
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 2
+databases: 0
+concurrency: 0
+networks: 2
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 2
+Past TAships: 1
+Other experience: CSCA48   2010 Winter at University of Toronto at Scarborough
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 3
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 3
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 3
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 3
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 5
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 5
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 06, 2010 at 14:34:38
+First name: Timothy
+Middle name: Paul
+Last name: Lkjihg
+Level of study: MSc
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 2
+Past TAships: 9
+Other experience: Also some TAships in Mathematics. Totalling over 1500 hours of TAwork.
+TAships owed: 0
+TAships owed (database): 108,216,270 [0,0]
+TAships wanted: 3
+Min. TAships willing: 0
+Max. TAships willing: 4
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: pref
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 1st
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: pref
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: pref
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: pref
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 3rd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 06, 2010 at 15:32:10
+First name: Nilgun
+Middle name: 
+Last name: Kjihgf
+Level of study: PhD
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto, CSC2410H ALGORITHMS IN GRAPH THEORY A+  
+ University of Toronto, CSC2515H INTRO MACHINE LEARNING A+  
+ University of Toronto, CSC2305H NUM MTHD OPTIM PRBLM A 
+ University of Toronto, CSC2521H TOPICS IN COMP. GRAPHICS: SKETCHING (in progress) 
+ University of Toronto, CSC2431H TOPICS IN COMP. BIO.: ANALYSIS OF HIGH THROUGHPUT SEQUENCING DATA (in progress) 
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,54,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 06, 2010 at 19:42:10
+First name: Philip
+Middle name: Mark Neil
+Last name: Jihgfe
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: Summer 2008 
+ MAT224H1  Linear Algebra II                   61  C- 
+ 
+ Fall 2008 
+ CSC485H1  Comp Linguistics                    83  A- 
+ CSC486H1  Knowledge Rep & Reas                77  B+ 
+ CSC495H1  Project in CSC                      90  A+ 
+ GER370H1  Business German I                   90  A+ 
+ 
+ Winter 2009 
+ CSC401H1  Natural Lang Compt                  88  A 
+ JLP315H1  Language Acquisition                80  A- 
+ STA248H1  Stats For Comp Sci                  78  B+ 
+ 
+ Fall 2009 
+ CSC2232H  SYSTEM PERFORMANCE/RELIABILITY      A 
+ CSC2401H  INTRO TO COMPUT COMP                B+ 
+ 
+ Winter 2010 
+ CSC2107H  COMPILERS & INTERPRETERS            IPR 
+ CSC2227H  Tps in the Design&Implementatn      IPR
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 0
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 1
+Past TAships: 4
+Other experience: 
+TAships owed: 0
+TAships owed (database): 108,0,281
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 3rd
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 2nd
+Prev. appts. for CSC209H: 2
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: 3rd
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 06, 2010 at 21:59:40
+First name: Lin
+Middle name: 
+Last name: Ihgfed
+Level of study: PhD
+Start of program: 2005 Sep
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 2
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 1
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 1
+TAships owed (database): 0,54,0 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 3
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 4
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, April 07, 2010 at 08:18:42
+First name: Soudeh
+Middle name: 
+Last name: Gfedcb
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: (1)Department of Computer Science, University of Toronto, CSC2307, Numerical Software, in progress (2)Department of Computer Science, University of Toronto, CSC2203, Packet Switch and Network Architectures, A+ (2)Department of Computer Science, University of Toronto, CSC2221, Introduction to Distributed Computing, A+ (3)Department of Computer Engineering, Sharif University of Technology, 40-710, Software Project, 19/20 (4)Department of Computer Engineering, Sharif University of Technology, 40-242, Signals and Systems, 20/20 (5)Department of Computer Engineering, Sharif University of Technology, 40-364, Programming Languages, 18.3/20 (6)Department of Computer Engineering, Sharif University of Technology, 40-404, Software Engineering Lab, 17.1/20 (7)Department of Computer Engineering, Sharif University of Technology, 40-714, Data Mining, 15.6/20 (8)Department of Computer Engineering, Sharif University of Technology, 40-408, Operating Systems Lab, 18/20 (9)Department of Computer Engineering, Sharif University of Technology, 40-324, Advanced Information Retrieval, 17.4/20 (10)Department of Computer Engineering, Sharif University of Technology, 40-414, Compiler Design, 19.5/20 (11)Department of Computer Engineering, Sharif University of Technology, 40-416, Computer Networks Lab, 20/20 (12)Department of Computer Engineering, Sharif University of Technology, 40- Department of Computer Engineering, Sharif University of Technology, 40-417, Artificial Intelligence, 17.0/20 (13)Department of Computer Engineering, Sharif University of Technology, 40-474, Software Engineering, 18/20
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 1
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 2
+compilers: 1
+statistics: 2
+simulations: 1
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 6
+Other experience: Note: From the 6 TAship I held in the past 3 years, the followings were in Department of Computer Science, University of Toronto: (1)Winter 2010: CSC358H1 - Introduction to Computer Networks, and (2)Fall 2009: CSC236H1 - Introduction to the Theory of Computation               The rest 4 were in my previous school (Department of Computer Engineering, Sharif University of Technology, Iran): (1)Spring Semester 2009: Data Structures and Algorithms (2)Fall Semester 2008: Operating Systems (3)Spring Semester 2008: Data Structures and Algorithms (4)Spring Semester 2008: Discrete Structures
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 2
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, April 07, 2010 at 16:40:26
+First name: Izhar
+Middle name: 
+Last name: Fedcba
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken: CSC2431H TOPICS:COMPUTL MOLECULAR BIOLO 0.50 A 
+ CSC2221H INTRO TO DISTRIBUTED COMPUTING 0.50 A- 
+ CSC2521H TOPICS: COMPUTER GRAPHICS 0.50 IPR Sketchg:Intrctn,Molelg&Prceptn 
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 2
+Perl: 2
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 3
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 4
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 00:28:26
+First name: Hossein
+Middle name: 
+Last name: Edcbaz
+Level of study: MSc
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: UofT, CSC2410, Introduction to Graph Theory, A+ 
+ UofT, CSC2411, Linear Programming and Combinatorial Optimization, A+ 
+ UofT, CSC2206, Systems Modelling and Analysis, A- 
+ UofT, CSC2502/486, Knowledge Representation, A+ 
+ UofT, CSC2203, Packet Switch and Network Architectures, A+ 
+ Sharif University of Technology, 40324, Modern Information Retrieval, A+ 
+ Sharif University of Technology, 40474, Software Engineering, A+ 
+ Sharif University of Technology, 40364, Programming Languages, A+ 
+ Sharif University of Technology, 40427, Expert Systems, A+ 
+ Sharif University of Technology, 40634, Computer Simulation, A 
+ Sharif University of Technology, 40418, Systems Analysis & Design, A+ 
+ Sharif University of Technology, 40222, Advanced topics in Computer (Web), A+ 
+ Sharif University of Technology, 22071, Numerical Computation, A+ 
+ Sharif University of Technology, 22035, Engineering Mathematics, A+ 
+ Sharif University of Technology, 40443, Computer Networks, A+ 
+ Sharif University of Technology, 40424, Operating Systems, A+ 
+ Sharif University of Technology, 40414, Compiler Design, A+ 
+ Sharif University of Technology, 40384, Database Design, A- 
+ Sharif University of Technology, 40312, Digital Electronics, A+
+reading: 2
+writing: 2
+conversation: 1
+Java: 1
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 0
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 2
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: pref
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 2
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 3rd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 15:22:24
+First name: David
+Middle name: L
+Last name: Dcbazy
+Level of study: PhD
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: Formal Methods, Intractable Algorithms, Distributed Computing
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 1
+C++: 0
+BASIC: 1
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 1
+statistics: 1
+simulations: 1
+systems modelling: 2
+numerical methods: 1
+business: 0
+Past TAships: 0
+Other experience: Haskell (expert), VHDL (expert), Rosetta (expert)
+TAships owed: -1
+TAships owed (database): 108,0,162 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: 1st
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 2nd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 16:37:29
+First name: Tom
+Middle name: Sie Ho
+Last name: Cbazyx
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto, CSC2515, Intro Machine Learning, in progress 
+ University of Toronto, CSC2503, Intro Computer Vision, A- 
+ University of Toronto, CSC2501, Intro Computational Linguistics, A+ 
+ University of Waterloo, CS488, Intro Computer Graphics, 92 
+ University of Waterloo, CS486, Intro Artificial Intelligence, 90 
+ University of Waterloo, CS499R, Readings Computer Science, 93 
+ University of Waterloo, STAT241, Statistics (advanced level), 88 
+ University of Waterloo, STAT333, Applied Probability, 98
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 1
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 1
+Other experience: Marker, Calculus 3, University of Waterloo. 
+ Residence Tutor, Algebra and Calculus, University of Waterloo.
+TAships owed: -1
+TAships owed (database): 108,0,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 17:12:41
+First name: Abraham
+Middle name: 
+Last name: Bazyxw
+Level of study: PhD
+Start of program: 2008 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 1
+ML: 2
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 2
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 3
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,54,162 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 3
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 1st
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: pref
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: pref
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: pref
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 20:13:02
+First name: Lee
+Middle name: 
+Last name: Azyxwv
+Level of study: PhD
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto JTB2010 "Proteomics and Functional Genomics" A 
+ University of Toronto CSC2541 "Topics in Machine Learning: Statistical models in computational molecular biology " A- 
+ University of Toronto CSC2104 "Topics in Software Engineering: Software development tools and practices" A
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 1
+shell: 1
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 2
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Thursday, April 08, 2010 at 23:22:58
+First name: Justin
+Middle name: 
+Last name: Zyxwvu
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 1
+Prolog: 1
+Lisp/Scheme: 2
+ML: 2
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 2
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,54,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 5
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:01:25
+First name: Jin
+Middle name: 
+Last name: Yxwvut
+Level of study: PhD
+Start of program: 2005 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 2
+concurrency: 2
+networks: 2
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 0
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 1
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 2
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 2
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:04:39
+First name: Yuxiao
+Middle name: Toby
+Last name: Xwvuts
+Level of study: PhD
+Start of program: 2007 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 0
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 2
+Lisp/Scheme: 1
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 2
+logic design: 2
+digital circuits: 2
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 1
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,54,108 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: pref
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: pref
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: pref
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: pref
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: 1st
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: pref
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:05:56
+First name: Hilal
+Middle name: 
+Last name: Wvutsr
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2502H KNOWLEDGE REPRESENTATION AND REASONING A-  
+ CSC2515H INTRODUCTION TO MACHINE LEARNING A-  
+ CSC2125H TOPICS IN SOFTWARE ENGINEERING A  
+ CSC2431H TOPICS COMPUT MOLECULAR BIOLO A  
+ MIE1511H DATA INTEGRATION BIOSCIENCES A 
+ CSC2401F INTRODUCTION TO COMPUTATIONAL COMPLEXITY A  
+ CSC2221F INTRODUCTION TO DISTRIBUTED COMPUTING A 
+ CSC401H NATURAL LANGUAGE COMPUTING IN PROGRESS 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 2
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 0
+ML: 1
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 0
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,0,250 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:11:00
+First name: Yu
+Middle name: 
+Last name: Vutsriq
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2401 Intro to Computational Complexity, A+ 
+ CSC2402 Methodologies to deal with Intractability, A+ 
+ CSC2206 System modeling and analysis, in progress 
+ CSC2515 Intro to Machine Learning, in progress 
+reading: 1
+writing: 1
+conversation: 1
+Java: 0
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 1
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 2
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 2nd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:18:04
+First name: Zachary
+Middle name: Aaron
+Last name: Utsrqip
+Level of study: PhD
+Start of program: 2010 Jan
+Department: DCS
+Other department: 
+Courses taken: Winter 2008: University of Western Ontario 
+ COMPSCI 340  Analysis of Algorithms 1 - 93 
+ COMPSCI 342  Organization of Programming Languages - 99 
+ COMPSCI 307  Object-Oriented Design and Analysis - 93 
+ MATH    217  Real Analysis II - 91 
+ COMPSCI 490  Thesis - 100 
+ 
+ Fall 2008: University of Toronto 
+ COMPSCI 2125 Automated Verification - A 
+ COMPSCI 2401 Introduction to Computational Complexity - A+ 
+ COMPSCI 2404 Computability and Logic - A+ 
+ 
+ Winter 2009: University of Toronto 
+ COMPSCI 2125 Software Development Tools and Practices - A 
+ COMPSCI 2542 Planning and Reasoning about Action - A+ 
+ 
+ Fall 2009: University of Toronto 
+ COMPSCI 2125 Program Analysis - A+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 0
+compilers: 1
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 2
+Preference for CSC324H: 1st
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:18:41
+First name: Aida
+Middle name: 
+Last name: Tsrqpio
+Level of study: PhD
+Start of program: 2010 Jan
+Department: DCS
+Other department: 
+Courses taken: CSC2431H  TOPICS:COMPUTL MOLECULAR BIOLO           0.50      A- \ 
+ CSC2501H  INTRO-COMPUTAT.LING.                     0.50      A  \ 
+ CSC2511H  NATURAL LANG COMPUTING                   0.50      A  \  
+ CSC2599H  Special Rdg Crs in Comp Applic           0.50      A  \ 
+          Model Erly Word Learn.Children 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 1
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 1
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,162 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:18:45
+First name: Hesam
+Middle name: 
+Last name: Rqponim
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2108H  AUTOMATED VERIFICAT.                     0.50      B+ 
+ CSC2502H  KNOWLEDGE REPRESENTATION AND REASONING   0.50      A- 
+ CSC2507H  CONCEPTUAL MODELLING                     0.50      B+ 
+ CSC2504H  COMPUTER GRAPHICS                        0.50      B 
+ FIS2177H  ARCH INFORM, SYSTEMS & ORGANIZ           0.50      B+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 2
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 1
+Past TAships: 6
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,173,162 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 5
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:22:15
+First name: Meng
+Middle name: 
+Last name: Qponmli
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2600H - CONVEX OPTIMIZATION IN PROGRESS UofT CSC2504H - COMPUTER GRAPHICS	0.50	 A UofT	 CSC2125H - TOPICS IN SOFTWARE ENGINEERING	0.50	 B+ UofT	 CSC2209H - COMPUTER NETWORKS	0.50	 A+ UofT WI07 GS MATH 6350 3.00 M Partial Differential Equations A+ YorkU WI07 GS MATH 6652 3.00 M Numerical Sol. to Differential Equations A YorkU WI07 SB FNEN 6850 3.00 F Fixed Income Securities A- YorkU FA06 GS MATH 6931 3.00 A Mathematical Modeling A+ YorkU FA06 SB FNEN 6210 3.00 A Theory of Portfolio Management A+ YorkU FA06 SB FNEN 6810 3.00 A Derivative Securities A- YorkU SU06 GS MATH 6004 0.00 A Mathematics Seminar YorkU WI06 GS COSC 5910 3.00 M Software Foundations A+ YorkU WI06 GS MATH 6340 3.00 M Ordinary Differential Equations A+ YorkU WI06 GS MATH 6911 3.00 M Numerical Methods in Finance A+ YorkU WI06 SB OMIS 6000 3.00 X Models&Applications In Operational Res B+ YorkU FA05 GS MATH 6651 3.00 A Advanced Numerical Methods A+ YorkU FA05 GS MATH 6900 3.00 A Operations Research I A+ YorkU FA05 GS MATH 6910 3.00 A Stochastic Calculus In Finance A- YorkU
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 1
+C++: 1
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: Courses I've TAed in UofT: CSC 108S - Introduction to Computer Programming CSC 165S - Mathematical Expression and Reasoning for Computer Science
+TAships owed: 2
+TAships owed (database): 108,108,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:38:10
+First name: Hojjat
+Middle name: 
+Last name: Ponmlki
+Level of study: PhD
+Start of program: 2004 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 2
+Lisp/Scheme: 2
+ML: 1
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 2
+Past TAships: 13+
+Other experience: In addition to doing TA for a variety of computer science courses, I have also enjoyed being an instructor for a several CS and Engineering courses at UofT (CSC108, CSC148, CSC384, APS101, APS105).
+TAships owed: 0
+TAships owed (database): 0,0,216 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 11:40:35
+First name: Robert
+Middle name: 
+Last name: Onmlkji
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: (All courses at UofT)  
+ CSC2501 / Computational Linguistics / A+  
+ 
+ CSC2504 / Computer Graphics / A-  
+ 
+ CSC2209 / Computer Networks / A+  
+ 
+ CSC2204 / Operating Systems / A  
+ 
+ CSC2404 / COMPUTABILITY&LOGIC / A  
+ 
+ CSC2221 / TPS-DISTRIBUTED SYST / A+  
+ 
+ CSC2515 / INTRODUCTION TO MACHINE LEARNING / A+  
+ 
+ CSC2415 / THRY ASPC-CNCURR PRG / A+  
+ 
+ CSC2509 / DATA MGMT SYSTEMS / A+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 1
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 2
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 8
+Other experience: Instructor - CSC148H - Summer 2008 + Summer 2009
+TAships owed: -1
+TAships owed (database): 108,108,119 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 12:54:49
+First name: David
+Middle name: Richard Stanley
+Last name: Nmlkjin
+Level of study: BSc
+Start of program: 2004 Jan
+Department: DCS
+Other department: 
+Courses taken: All courses below are from UofT at St. George 
+ 
+ APM236H1  Appl Linear Prog            86  A 
+ CSC207H1  Software Design             92  A+ 
+ CSC209H1  Soft Tools & Sys Prog       90  A+ 
+ CSC240H1  Enr Intro Theor Comp        97  A+ 
+ CSC258H1  Computer Organizatn         95  A+ 
+ CSC265H1  Enr Data Struct Anal        94  A+ 
+ CSC309H1  Prog on the Web             in progress 
+ CSC320H1  Intro Visual Compt          in progress 
+ CSC324H1  Prog Languages              96  A+ 
+ CSC343H1  Intro to Databases          in progress 
+ CSC350H1  Numerical Algebra           83  A- 
+ CSC365H1  Enr Complex & Comput        in progress 
+ CSC369H1  Operating Systems           86  A  
+ CSC372H1  Microprocessor Sftwr        in progress 
+ CSC384H1  Intro Artif Intell          91  A+ 
+ MAT223H1  Linear Algebra I            90  A+ 
+ MAT224H1  Linear Algebra II           87  A 
+ PHY251H1  Electricity & Mag           73  B 
+ PHY255H1  Oscillations & Waves        86  A 
+ STA257H1  Probability & Stat I        73  B 
+ STA261H1  Probabilty & Stat II        78  B+ 
+ 
+ For all of the courses in progress, I expect a final grade in the A range.
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 1
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 1
+web programming: 2
+information theory: 1
+interface design: 1
+databases: 1
+concurrency: 1
+networks: 1
+compilers: 1
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 0
+Other experience: I taught English in China for 1 year at Lanzhou University in 2003-4. The position was very TA-like. I would see 14 classes (20-40 students) once every 2 weeks, while most of their classes were taught by a Chinese English teacher.
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 2
+Min. TAships willing: 0
+Max. TAships willing: 3
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: pref
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: pref
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: pref
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 12:58:41
+First name: Shobhit
+Middle name: 
+Last name: Mlkjihi
+Level of study: PhD
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto (UofT)  
+ -UofT, CSC2125, Topics in Software Engineering, A  
+ -UofT, CSC2221, Introduction to Distributed Computing, A 
+ -UofT, CSC2417, Algorithms for Genome Analysis, A+  
+ -UofT, CSC2541, Topics in Machine Learning, A+  
+ 
+ Technical University Dresden, Germany (TUD) (Master degree) (Courses relevant to Computer Science)(max. A)  
+ -TUD, Algorithmic Bioinformatics, A  
+ -TUD, Programming for Bioinformatics(Python), A  
+ -TUD, Applied Bioinformatics, A  
+ 
+ Jaypee University of Information Technology, India (JUIT) (Bachelor degree) (Courses relevant to Computer Science) 
+ -Database Management System, Data Mining, Machine Learning in Bioinformatics, Unix Programming, Scripting Languages 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 1
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 5
+Other experience: CSCD11 Machine Learning & Data Mining (Fall, 2008 UTSC) 
+ CSCC43 Introduction to Databases (Winter, 2010 UTSC)
+TAships owed: -1
+TAships owed (database): 108,116,177.5 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 2
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 13:27:23
+First name: Tomasz
+Middle name: Robert
+Last name: Lkjihgi
+Level of study: PhD
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: York University, COSC 6390A Special Topics: Knowledge Representation, A  
+ York University, COSC 6590A High-Performance Computer Networks, A  
+ York University, COSC 6421 Advanced Data Systems, A+  
+ York University, COSC 6111 Advanced Algorithm Design and Analysis, A+  
+ York University, COSC 5101 Advanced Data Structures, A+  
+ UofT, CSC 2544 WebSearching and Mining, A  
+ UofT, CSC 2125 Algorithmic Software Verification, A+  
+ UofT, CSC 2514 Human-Computer Interaction, A+ 
+ UofT, CSC 2227 Topics in Operating Systems Design and Implementation, in progress 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 1
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 1
+shell: 1
+make: 0
+assembly: 1
+logic design: 1
+digital circuits: 1
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,113,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 2
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 13:44:39
+First name: Yulia
+Middle name: 
+Last name: Kjihgfi
+Level of study: MSc
+Start of program: 2009 Sep
+Department: DCS
+Other department: 
+Courses taken: University of Toronto, CSCB09H3, Software Tools and Systems Programming, 83  A- 
+ University of Toronto, CSC420H1  Intro Image Unstand, 90  A+  
+ University of Toronto, MATC44H3  Introduction to Combinatorics, 100  A+  
+ University of Toronto, CSCC50H3  Numerical Algebra and Optimization, 87  A  
+ University of Toronto, CSCD94H3  Computer Science Project, 90  A+ 
+          Using Language to Assemble Multipart 
+          Visual Models 
+ University of Toronto, CSC411H1  Machine Learning, 85  A 
+ University of Toronto, CSC418H1  Computer Graphics, 81  A-     
+ University of Toronto, CSCC51H3, Numerical Approximation, 72  B-      
+          and Ordinary Differential Equations 
+ University of Toronto, CSCD95H3  Computer Science Project, 90  A+ 
+          Integration of Language & Vision 
+ University of Toronto, MATC46H3, Differential Equations II, 67  C+     
+ University of Toronto, MATC65H3, Complex Variables II, 78  B+  
+ University of Toronto, CSC2404H, Computability and logic,  B 
+ University of Toronto, CSC2503H, Foundations of computer vision, A- 
+ University of Toronto, CSC2515H, Intro Machine Learning, in progress 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 1
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 1
+logic design: 1
+digital circuits: 0
+graphics: 1
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 2
+Other experience: I was a TA for csc108 and csc148 in fall 2009 and winter 2010 respectively.
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: pref
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: pref
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 14:37:27
+First name: Lila
+Middle name: 
+Last name: Jihgfei
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken: Fall 2009: CSC2104H  PROGRAM DESIGN A-, CSC2429H  THEORY OF COMPUTATIONS A-; Fall 2008: CSC2426H  FUNDAMENTALS OF CRYPTOGRAPHY A  
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 0
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 1
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 2
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: Peer tutor 2005-2007 (as an undergrad).
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 2nd
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: pref
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 14:46:32
+First name: Amin
+Middle name: 
+Last name: Igeca
+Level of study: PhD
+Start of program: 2009 Jan
+Department: DCS
+Other department: 
+Courses taken: Fall 2008: 
+ CSC2206H  COMPUTER SYSTEMS MODELLING               0.50      A- 
+ CSC2232H  SYSTEM PERFORMANCE/RELIABILITY           0.50      A+
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 2
+compilers: 1
+statistics: 1
+simulations: 1
+systems modelling: 1
+numerical methods: 0
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,0,227 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: 3rd
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 2nd
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 14:54:30
+First name: Natan
+Middle name: Konstantin
+Last name: Gecay
+Level of study: MSc
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2410H  INTRODUCTION TO GRAPH THEORY             0.50      A 
+ CSC2411H  LINEAR PROG. & COMBIN OPTIM              0.50      A+ 
+ CSC2221H  INTRO TO DISTRIBUTED COMPUTING           0.50      A+ 
+ CSC2401H  INTRO TO COMPUT COMP                     0.50      A+ 
+ CSC2504H  COMPUTER GRAPHICS                        0.50      A+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 1
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 1
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 1
+interface design: 0
+databases: 1
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 2
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: 1st
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 1
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 14:57:30
+First name: Christopher
+Middle name: Marc
+Last name: Ecayx
+Level of study: PhD
+Start of program: 2008 Jan
+Department: DCS
+Other department: 
+Courses taken: University of Toronto 
+ 
+ Fall 2006 
+ CSC2501     Intro. to Computational Linguistics         A+ 
+ CSC2515     Machine Learning                            A+ 
+ 
+ Winter 2007 
+ CSC2528     Adv. Topics in Comp. Linguistics            A 
+ CSC2125     Topics in Software Engineering              A 
+ 
+ Fall 2007 
+ PSY5220H 	TOPICS IN COGNITION I - Language        A+ 
+ 
+ Fall 2008 
+ CSC2507     Conceptual Modelling                        B+ 
+ 
+ Fall 2009 
+ CSC2526H  HCI:TOPICS-UBIQUITOUS COMPUTNG                A+ 
+ 
+
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,108,54 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 1st
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: pref
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 15:06:51
+First name: Robert
+Middle name: Dustin
+Last name: Cayxw
+Level of study: PhD
+Start of program: 2010 Jan
+Department: DCS
+Other department: 
+Courses taken: Fall 2008, U Toronto, CSC2515 Introduction to Machine Learning, A-.  
+ Fall 2008, U Toronto, CSC2426 Fundamentals of Cryptography, B+.  
+ Fall 2008, U Toronto, CSC2401 Complexity Theory, A+. 
+ Winter 2009, U Toronto, CSC2542H Topics in Knowledge Representation and Reasoning, A.
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 2
+CVS: 0
+CSim: 0
+Maple: 1
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 0
+UML: 0
+Unix/Linux: 1
+tools: 0
+shell: 0
+make: 0
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 0
+systems modelling: 0
+numerical methods: 1
+business: 0
+Past TAships: 4
+Other experience: At McGill, I was the TA twice for Logic and Computability, and once for an introductory statistics course.
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 2
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 3rd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 1
+Preference for CSC324H: 1st
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: 2nd
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 16:00:26
+First name: David
+Middle name: 
+Last name: Ayxwv
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2228H  TPS: MOBILE PERVASIVE COMP               0.50      A+ 
+ CSC2526H  TOPICS IN UBIQUITOUS COMPUTING           0.50      A+ 
+ CSC2130H  EMPIRICAL RSH METHODS IN SE              0.50      A- 
+ CSC2527H  BUSINESS OF SOFTWARE                     0.50      A
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 1
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 1
+information theory: 0
+interface design: 2
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 6
+Other experience: CSC104, CSC148, CSC318, CSC428, 
+TAships owed: -1
+TAships owed (database): 108,108,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 1
+Preference for CSC108H: 1st
+Prev. appts. for CSC148H: 1
+Preference for CSC148H: 2nd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 16:05:24
+First name: Michail
+Middle name: 
+Last name: Yalmof
+Level of study: MSc
+Start of program: 2008 Sep
+Department: DCS
+Other department: 
+Courses taken:   Course number Course title                        Area Term taken/planned Mark 
+ 1 CSC2125       Topics in Software Engineering: Al- 1A   Fall 2008          A 
+                gorithmic Program Verification 
+ 2 CSC2404       Computability and Logic             2B   Fall 2008          B- 
+ 3 CSC2507       Conceptual Modelling                3C   Fall 2008          A+ 
+ 4 CSC2125       Topics in Software Engineering:     1A   Spring 2009        A 
+                Software Devel Tools and Practices 
+ 5 CSC2130       Empirical Research Methods in       1A   Spring 2009        A+ 
+                Software Engineering
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 2
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 1
+UML: 2
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 4
+Other experience: 
+TAships owed: 2
+TAships owed (database): 108,0,108 [0,0]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 3
+Preference for CSC207H: 1st
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: will
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 16:05:37
+First name: Madalin
+Middle name: 
+Last name: Almofi
+Level of study: PhD
+Start of program: 2007 Jan
+Department: DCS
+Other department: 
+Courses taken: 
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 1
+HTML: 0
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 2
+make: 2
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 1
+concurrency: 1
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: -1
+TAships owed (database): 108,54,108 [54,54]
+TAships wanted: 1
+Min. TAships willing: 0
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Friday, April 09, 2010 at 22:26:47
+First name: kante
+Middle name: lee
+Last name: Lmofin
+Level of study: MSc
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: PHL380H1 - Global Bioethics - 90% 
+ PHL440H1 - Clinical Bioethics - 90% 
+ HMB306H1 - Epist Ethics in Medicine - 94% 
+ PHL302Y1 - Intro Human Physiology - In progress. 
+ PHL246H1 - Probab & Induc Logic - In progress. 
+ PHL470H1 - Advanced Bioethics - In progress. 
+ CSB352H1 - Bioinformatic Methods - In progress. 
+ CSB472H1 - Comp Genomics & Bioinf - In progress. 
+ HMB406H1 - Health Care Ethics - In progress.
+reading: 2
+writing: 2
+conversation: 2
+Java: 1
+C: 1
+C++: 1
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 1
+CSim: 0
+Maple: 0
+Matlab: 1
+RCS: 0
+Perl: 1
+Python: 1
+HTML: 2
+UML: 0
+Unix/Linux: 1
+tools: 1
+shell: 0
+make: 1
+assembly: 1
+logic design: 0
+digital circuits: 0
+graphics: 1
+web programming: 1
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 1
+simulations: 2
+systems modelling: 0
+numerical methods: 2
+business: 0
+Past TAships: 5
+Other experience: I have taught CSC104, CSC150, CSC190, CSC209 at U of T. 
+ I have been proprietor of a small tutoring business since 2002, where I have taught math, physics and chemistry to students ranging from grade 1 to first year university.
+TAships owed: -1
+TAships owed (database): 0,66,0 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 1
+Preference for HLP101H: 1st
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: will
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: will
+Prev. appts. for CSC165H: 1
+Preference for CSC165H: 2nd
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 3rd
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Saturday, April 10, 2010 at 00:32:23
+First name: Akitoshi
+Middle name: 
+Last name: Mofini
+Level of study: PhD
+Start of program: 2006 Sep
+Department: DCS
+Other department: 
+Courses taken: 2006 Fall 
+ CSC2221H  INTRO TO DISTRIBUTED COMPUTING           A 
+ CSC2401H  INTRO TO COMPUT COMP                     A 
+ 2007 Winter 
+ CSC2426H  TPS IN CRYPTOGRAPHY                      A+ 
+ 2007 Fall 
+ CSC2429H  THRY OF COMPUTATIONS                     A 
+ CSC2502H  KNOWLEDGE REPRESENTATION AND REASONING    A+ 
+ 2008 Winter 
+ CSC2414H  APPLD DISCRETE MATHS                     A+
+reading: 2
+writing: 2
+conversation: 2
+Java: 0
+C: 0
+C++: 0
+BASIC: 0
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 0
+RCS: 0
+Perl: 0
+Python: 0
+HTML: 0
+UML: 0
+Unix/Linux: 0
+tools: 0
+shell: 0
+make: 0
+assembly: 0
+logic design: 0
+digital circuits: 0
+graphics: 0
+web programming: 0
+information theory: 0
+interface design: 0
+databases: 0
+concurrency: 0
+networks: 0
+compilers: 0
+statistics: 0
+simulations: 0
+systems modelling: 0
+numerical methods: 0
+business: 0
+Past TAships: 7
+Other experience: 
+TAships owed: 3
+TAships owed (database): 108,0,135 [0,0]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: unwill
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 3
+Preference for CSC373H: 1st
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Wednesday, April 14, 2010 at 08:08:04
+First name: Duy Minh
+Middle name: 
+Last name: Mofinil
+Level of study: PhD
+Start of program: 2007 Sep
+Department: DCS
+Other department: 
+Courses taken: CSC2600H  TOPICS-COMPUTER SC                       0.50      A+ 
+          Convex Optimization 
+ CSC2305H  NUM MTHD OPTIM PRBLM                     0.50      A+ 
+
+reading: 2
+writing: 0
+conversation: 2
+Java: 1
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 1
+Lisp/Scheme: 1
+ML: 1
+CVS: 1
+CSim: 1
+Maple: 2
+Matlab: 2
+RCS: 1
+Perl: 1
+Python: 1
+HTML: 2
+UML: 1
+Unix/Linux: 1
+tools: 1
+shell: 1
+make: 1
+assembly: 1
+logic design: 2
+digital circuits: 2
+graphics: 2
+web programming: 1
+information theory: 1
+interface design: 1
+databases: 2
+concurrency: 1
+networks: 2
+compilers: 1
+statistics: 2
+simulations: 1
+systems modelling: 1
+numerical methods: 2
+business: 1
+Past TAships: 6
+Other experience: 
+TAships owed: 3
+TAships owed (database): 108,0,125 [54,54]
+TAships wanted: 1
+Min. TAships willing: 1
+Max. TAships willing: 1
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: unwill
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: unwill
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: unwill
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: unwill
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: 1st
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: unwill
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: unwill
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: unwill
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: unwill
+Submit application: Submit application
+----------------------------------------------------------------------
+
+Received: Tuesday, April 20, 2010 at 17:12:27
+First name: Mehmet
+Middle name: 
+Last name: Mofinila
+Level of study: MSc
+Start of program: 2008 Sep
+Department: ECE
+Other department: 
+Courses taken: ECE1747H  PARALLEL PROGRAMMING - A 
+ ECE1777H  CIRCUIT SIMULATION - A 
+ ECE557H1  SYSTEMS CONTROL - A 
+ ECE1387H  CAD-DIGITAL CIR&LAY. - A 
+ ECE1769H  BEHAV SYNTHESIS:DIGITAL CIRCUT - A 
+ JDE1000H  ETHICS IN RESEARCH - CR 
+ RST9999Y  RESEARCH/THESIS - in progress
+reading: 2
+writing: 2
+conversation: 2
+Java: 2
+C: 2
+C++: 2
+BASIC: 1
+Prolog: 0
+Lisp/Scheme: 0
+ML: 0
+CVS: 0
+CSim: 0
+Maple: 0
+Matlab: 2
+RCS: 0
+Perl: 0
+Python: 2
+HTML: 1
+UML: 0
+Unix/Linux: 2
+tools: 2
+shell: 0
+make: 1
+assembly: 2
+logic design: 2
+digital circuits: 2
+graphics: 0
+web programming: 1
+information theory: 1
+interface design: 0
+databases: 0
+concurrency: 1
+networks: 1
+compilers: 0
+statistics: 0
+simulations: 2
+systems modelling: 1
+numerical methods: 1
+business: 0
+Past TAships: 6
+Other experience: 
+TAships owed: -1
+TAships owed (database): 0,0,0 [0,0]
+TAships wanted: 3
+Min. TAships willing: 0
+Max. TAships willing: 4
+Prev. appts. for HLP101H: 0
+Preference for HLP101H: will
+Prev. appts. for HLP101HTAH: 0
+Preference for HLP101HTAH: will
+Prev. appts. for CSC108H: 0
+Preference for CSC108H: 2nd
+Prev. appts. for CSC148H: 0
+Preference for CSC148H: 3rd
+Prev. appts. for CSC165H: 0
+Preference for CSC165H: will
+Prev. appts. for CSC207H: 0
+Preference for CSC207H: will
+Prev. appts. for CSC209H: 0
+Preference for CSC209H: 1st
+Prev. appts. for CSC324H: 0
+Preference for CSC324H: will
+Prev. appts. for CSC373H: 0
+Preference for CSC373H: will
+Submit application: Submit application
+----------------------------------------------------------------------
