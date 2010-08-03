@@ -12,7 +12,7 @@
 				<Option object_output="obj\Debug\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="ta_stats.txt" />
+				<Option parameters="ta_stats.txt course_stats.txt" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -22,7 +22,7 @@
 				<Option object_output="obj\Release\" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="ta_stats.txt" />
+				<Option parameters="ta_stats.txt course_stats.txt " />
 				<Compiler>
 					<Add option="-O2" />
 				</Compiler>
@@ -34,6 +34,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="course.h" />
 		<Unit filename="definitions.cpp" />
 		<Unit filename="input.cpp" />
 		<Unit filename="input.h" />

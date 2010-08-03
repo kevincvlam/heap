@@ -14,5 +14,59 @@ the TAships owed are fulfilleds
 
 -both TAs and COURSES stored in our program as arrays so that we can iterate through them
 
+August 3 2010
+
+1.Fitness Function
+
+-Given an assignment how do we evaluate its effectiveness?
+-Add the percentage of guaranteed hours fulfilled ie 85(%)*(num_TAs/10)
+-For each TA assigned that is 
+    -1st +25
+    -2nd +15
+    -3rd +10
+    -will +5
+    -unwill 0
+-Are the TAships evenly distributed?
+
+-Subtract (Maximum.TA:enrollment - Minimum.TA:enrollment)
+
+Whatelse makes a good assignment?
 
 
+
+3.Course Structure
+
+Need to identify which courses are most constrained.
+
+-Store number of TAs who have Pref as 1st.. 2nd... 3rd.. will ..
+-Store number of TAS who only have this course listed as 1st? 
+-THe number of TAships needed (this may or may not influence constraint?)
+-The year of the course(4th > 3rd > 2nd > 1st)
+-a constraint score, that is updated as we make assignments ? 
+
+ 
+2.Decision Making
+How do we break at points where decisions are made? 
+
+Is it possible for courses to have assignments that are 100% correct? 
+
+
+3.Recursive 
+
+int solve(emptyAssignment) //recurse through the possible assignments
+{
+    if(solution below certain fitness) {return 0;}
+
+    if(solution is of certain fitness) {saveassignment; return 1;}
+
+    //make an assignment of some sort
+    assign TA to most constrained course
+    remove TA from set of possibilities in that course
+
+    if(solve(assignment)
+    {
+        printAssignment
+        return 1;     
+    }
+    return 0;
+}

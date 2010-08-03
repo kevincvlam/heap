@@ -1,8 +1,3 @@
-# Note: HLP101H and HLP101HTAH have no enrolment figures, since they are
-# help-centre TAs.  For other courses, the enrolment is the last number in
-# the Scheme expression: (... N.0) --- N is the enrolment.
-===========================================================================
-
 HLP101H - Help Centre TA
 
 HLP101HTAH - Help Centre Head TA

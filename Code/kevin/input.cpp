@@ -3,29 +3,46 @@
 
 Input::Input(){
     numTA = 0;
+    numCourses = 0;
 }
-
-vector <int> Input::store_courseinfo(const char * file)
+/** Read in TXT Files **/
+vector <Course*> Input::store_courseinfo(const char * file)
 {
-    vector <int> courseinfo;
-    courseinfo.push_back(4);
-    courseinfo.push_back(4);
+    vector <Course *> courseinfo;
+
     //for the two courses with no enrollment
+
 
     //read in file
     ifstream in (file);
     string s;
     while (getline(in,s)){
-        if (s.rfind("Enrolment:",s.size()-1)!=string::npos){
-            int enrolled = convert_int(s.substr(s.rfind("*",s.size()-1)+8,s.rfind(")",s.size()-1)-1));
-            double TAships = enrolled*2.5/54.0;
+        if (s.rfind("CSC",s.size()-1)!=string::npos){
+            Course *course = new Course;
+            course->code = s.substr(0,7);
+            course->id = numCourses;
+            course->level = convert_int(s.substr(3,1));
+            courseinfo.push_back(course);
+            numCourses++;
+
+        }
+        if (s.rfind("HLP",s.size()-1)!=string::npos){
+            Course *course = new Course;
+            course->code = s.substr(0,10);
+            course->id = numCourses;
+            course->level = convert_int(s.substr(3,1));
+            courseinfo.push_back(course);
+            numCourses++;
+
+        }
+        else if (s.rfind("Enrolment:",s.size()-1)!=string::npos){
+            courseinfo[numCourses-1]->enrolled = convert_int(s.substr(s.rfind("*",s.size()-1)+8,s.rfind(")",s.size()-1)-1));
+            double TAships = courseinfo[numCourses-1]->enrolled*2.5/54.0;
             //round up to nearest ones place
             if(((int)(TAships*10))%10 >=5)
-            TAships = ceil(TAships);
+             courseinfo[numCourses-1]->TAships = (unsigned int)ceil(TAships);
             else
-            TAships = floor(TAships);
-
-            courseinfo.push_back((int)TAships);
+             courseinfo[numCourses-1]->TAships = (unsigned int)floor(TAships);
         }
 
 
@@ -229,23 +246,59 @@ vector <Student*> Input::store_info(const char * file){
     }
     in.close();
 
-
-    //testing input of random things
-
- //   unsigned int i/*j*/;
-   // for (i=0; i<(unsigned)info.size(); i++)
-        /*for (j=0;j<NUM_COURSES;j++){
-            cout << info[i]->firstName << " " << j <<". prev: " << info[i]->prevAppts[j] <<" pref: "<< info[i]->pref[j] <<endl;
-        }*/
-     //   cout << info[i]->id << ". " << info[i]->firstName /*<< " " << info[i]->TAhoursOwed << " prev appt HLP101HTAH: " << info[i]->prevAppts[HLP101HTAH] << " pref for HLP101HTAH: " << info[i]->pref[HLP101HTAH]*/ << endl;
-    //}
-
     return info;
 
 }
+
+
+/** Course Functions **/
+
+vector <Course*> Input::updateConstraintInfo(vector <Course*> course, vector <Student*> tainfo)
+//update the course constraint data based on student info
+{
+    unsigned int i;
+    unsigned int j;
+    for(i =0; i<tainfo.size(); i++)
+    {
+        for(j = 0; j < course.size(); j++)
+        {
+            if(tainfo[i]->pref[j] == FIRST)
+            {
+                course[j]->numPref1st++;
+                course[j]->freedom += 25;
+            }
+            else if(tainfo[i]->pref[j] == SECOND)
+            {
+                course[j]->numPref2nd++;
+                course[j]->freedom += 15;
+            }
+            else if(tainfo[i]->pref[j] == THIRD)
+            {
+                course[j]->numPref3rd++;
+                course[j]->freedom += 10;
+            }
+            else if(tainfo[i]->pref[j] == WILL)
+            {
+                course[j]->numPrefWill++;
+                course[j]->freedom += 5;
+            }
+
+        }
+
+    }
+
+return course;
+}
+
+
+/** Helper Functions **/
 
 int Input::convert_int(string s) {
   int i;
   i = atoi(s.c_str());
   return i;
 }
+
+
+
+

@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1280857725 source:c:\users\kevin lam\dev\heap\code\score.cpp
+	"input.h"
+	"student.h"
+	"score.h"
+
+1280857725 c:\users\kevin lam\dev\heap\code\input.h
+	"definitions.cpp"
+	"student.h"
+
+1280857725 c:\users\kevin lam\dev\heap\code\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280857725 c:\users\kevin lam\dev\heap\code\student.h
+	"definitions.cpp"
+
+1280857725 c:\users\kevin lam\dev\heap\code\score.h
+	"student.h"
+
+1280857725 source:c:\users\kevin lam\dev\heap\code\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280857725 source:c:\users\kevin lam\dev\heap\code\input.cpp
+	"input.h"
+	<math.h>
+
+1280782015 source:c:\users\kevin lam\dev\heap\code\main.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+	"score.h"
+
+1280538585 c:\users\kevin lam\dev\heap\code\sorting.h
+	"student.h"
+
+1280538585 source:c:\users\kevin lam\dev\heap\code\sorting.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+
+1280862533 source:c:\users\kevin lam\dev\heap\code\kevin\input.cpp
+	"input.h"
+	<math.h>
+
+1280862533 c:\users\kevin lam\dev\heap\code\kevin\input.h
+	"definitions.cpp"
+	"student.h"
+	"course.h"
+
+1280857725 c:\users\kevin lam\dev\heap\code\kevin\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280857725 c:\users\kevin lam\dev\heap\code\kevin\student.h
+	"definitions.cpp"
+
+1280862749 source:c:\users\kevin lam\dev\heap\code\kevin\score.cpp
+	"input.h"
+	"student.h"
+	"score.h"
+
+1280862687 c:\users\kevin lam\dev\heap\code\kevin\score.h
+	"student.h"
+
+1280857834 source:c:\users\kevin lam\dev\heap\code\kevin\sorting.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+
+1280857834 c:\users\kevin lam\dev\heap\code\kevin\sorting.h
+	"student.h"
+
+1280857725 source:c:\users\kevin lam\dev\heap\code\kevin\definitions.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1280864207 source:c:\users\kevin lam\dev\heap\code\kevin\main.cpp
+	"input.h"
+	"student.h"
+	"sorting.h"
+	"score.h"
+
+1280860564 c:\users\kevin lam\dev\heap\code\kevin\course.h
+	"definitions.cpp"
+
