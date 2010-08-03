@@ -10,6 +10,21 @@
 //Sort by Prev Appts
 //Work from upper year courses down
 
+Sorting::Sorting(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURSES]){
+    int j;
+    for(j = 0; j < NUM_COURSES; j++)
+    {
+       storePref(TAinfo, Courses[j], j);
+       bySeniority(Courses[j], j);
+       byPrevAppts(Courses[j], j);
+       byScore(Courses[j], j);
+       byOwed(Courses[j]);
+    }
+    printAssignment(Courses, 0);
+}
+
+
+
 /**Printing Functions**/
 
 // prints names for course x
