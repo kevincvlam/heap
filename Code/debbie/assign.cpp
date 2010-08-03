@@ -1,7 +1,7 @@
 #include "input.h"
 #include "student.h"
-#include "score.h"
 #include "sorting.h"
+#include "assign.h"
 
 //while(guarantees unfulfilled && course unfilled)
 //{ 
@@ -15,9 +15,9 @@
 //     if guarantees fulfilled break;
 //}   
 
-vector <Student*> Assign::Assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA, vector <int> TAships){
+void Assign::assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA, vector <int> TAships){
 
-    vector <Student*> assignment[NUM_COURSES]
+    vector <Student*> assignment[NUM_COURSES];
 
     int i, j;
     Sorting sort;
@@ -25,8 +25,7 @@ vector <Student*> Assign::Assign(vector <Student*> Courses[NUM_COURSES], vector 
     // add heuristics, ex: karl's note about constrained TAs
     
     // final resort
-    while (!constraint_course(assignment)||!constraint_gaurantee(Courses));
-        added = 0;
+    while (!constraint_course(assignment,TAships)||!constraint_guarantee(Courses));
         for (i=0;i<NUM_COURSES;i++){
             if(assignment[i].size()<TAships[i]){
                 assignment[i].push_back(Courses[i][0]);
@@ -37,8 +36,8 @@ vector <Student*> Assign::Assign(vector <Student*> Courses[NUM_COURSES], vector 
                 TA[Courses[i][0]->id]->maxWilling -= 54;
                 TA[Courses[i][0]->id]->minTA -= 54;
                 TA[Courses[i][0]->id]->maxTA -= 54;
-                sort(TA,Courses);
-            } else if (constraint_course(assignment,TAships)&&!constraint_gaurantee(Courses)){
+                sort.sort(TA,Courses);
+            } else if (constraint_course(assignment,TAships)&&!constraint_guarantee(Courses)){
                 assignment[i].push_back(Courses[i][0]);
                 TA[Courses[i][0]->id]->TAhoursOwed -= 54;
                 TA[Courses[i][0]->id]->TAshipsWanted -= 54;
@@ -47,16 +46,16 @@ vector <Student*> Assign::Assign(vector <Student*> Courses[NUM_COURSES], vector 
                 TA[Courses[i][0]->id]->maxWilling -= 54;
                 TA[Courses[i][0]->id]->minTA -= 54;
                 TA[Courses[i][0]->id]->maxTA -= 54;
-                sort(TA,Courses);
+                sort.sort(TA,Courses);
             } 
         }
         
-        return assignment;
+        //return assignment; need to find out how to return vector <student*> assignment[NUM_COURSES]
 }
 
-bool Assign::constraint_gaurantee(vector <Student*> Courses[NUM_COURSES]){
+bool Assign::constraint_guarantee(vector <Student*> Courses[NUM_COURSES]){
      int i;
-     int gaurantee = 0;
+     int guarantee = 0;
      for(i=0; i<NUM_COURSES; i++){
          if(Courses[i][0]->TAhoursOwed <= 0)   guarantee = 1;
      }

@@ -10,7 +10,7 @@
 //Sort by Prev Appts
 //Work from upper year courses down
 
-Sorting::Sorting(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURSES]){
+void Sorting::sort(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURSES]){
     int j;
     for(j = 0; j < NUM_COURSES; j++)
     {

@@ -2,11 +2,13 @@
 #include "student.h"
 #include "sorting.h"
 #include "score.h"
+#include "assign.h"
 
 //1. Takes the name of a file to view as the first command-line argument
 int main(int argc, char* argv[]) {
     if (argc < 2) { cout << "Error: Use 1 Argument." << endl; return EXIT_FAILURE;}
     Input in;
+    Sorting sort;
     Score score;
     vector <Student*> TAinfo;
     TAinfo = in.store_info(argv[1]);//reads in ta_stats
@@ -17,7 +19,7 @@ int main(int argc, char* argv[]) {
 
     //Store an Initial List of Students, based on preference
 
-    Sorting sort(TAinfo, Courses);
+    sort.sort(TAinfo, Courses);
 
 //    int j;
 //    for(j = 0; j < NUM_COURSES; j++)
