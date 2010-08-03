@@ -40,7 +40,7 @@ int main(int argc, char* argv[]) {
 //        printf("%d\n", TAships[k]);
 //    }
 
-
+    Assign assign(Courses, TAinfo, TAships);
 
     return 0;
 }

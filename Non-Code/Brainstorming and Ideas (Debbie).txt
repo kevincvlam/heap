@@ -1,6 +1,12 @@
 /_DATA TYPES/STRUCTURES________/
 
-QUALIFICATION TABLE
+
+COURSES TABLE
+- to determine order of viewing
+- stable sorted by:
+	- year of the course -> number of TAs >=willing to TA course
+
+RANKING TABLE
 - Deals with the constraint that TAs are to be comfortable with the material of the course they're teaching
 - Table of possibilities based on qualifications; array of vectors
 
@@ -18,8 +24,10 @@ QUALIFICATION TABLE
 
   - begins with a vector containing ALL TAs, then cross possible TA's out based on given qualifications
   - within the vector, the options are ranked in order of quality most qualified ---> least qualified (based on the given 0, 1, 2" info)
+  - TAs stable sorted by:
+	- gaurantee -> preference -> level -> qualification score
 
-HOURS/ENROLMENT TABLE
+TASHIPS TABLE
 - Deals with contraint that there is a minimum of 2.5hr/enrolment and maximum of 2*minimum enrolment
 - 2 dimensional array indicating the minimum number of TAships a course requires
 
@@ -27,8 +35,7 @@ HOURS/ENROLMENT TABLE
        _____________________________________________________
        #TAships req'd          3       7       5       9
 
-
-MAIN TABLE
+ASSIGNMENT TABLE
 - Deals with hours guanranteed/TA
 - Validity is checked with verify
 
@@ -64,12 +71,13 @@ VERIFY(main table)
        - the number of guaranteed hours doesn't match what they got
        - TAship/enrolment ranges to high or is below minimum
 
-SOLVE(main table)
+SOLVE(main table) [OPTION 1, based on sudoku/zebra methods]
 
 - process:
        - heuristics (qualifications, prof interest, etc.)
+	       - most constrained TA (gauranteed + not versatile)
        - brute force
-               - add a TA to a course
+               - add first ranked TA to a course
                - if (verify == true && num empty == 0) print table
                - once table is seen, scanf variable asks if user is satisfied
                - if so, exit program
@@ -77,5 +85,17 @@ SOLVE(main table)
                - if verify is false || user is not satisfied
                - remove most brute force recent addition and try again
 
-/_NOTES______________/
-- I'm not sure how the "ranking" system works...
+SOLVE [OPTION 2, based on heap methods]
+     - make list of priority of courses (perhaps by year of study?)
+     - view TA rankings for courses in the order of list above
+       - for every course, take the first TAships[code] number of TAs
+            - for every TA that is taken for the course, subtract 54 hours from TAshipsOwed
+             - update rankings based on TAs that have been taken for the course
+     - if courses all have at least TAships[code] number of TAs
+       - [option 1] look at the course with the smallest TA:enrolment ratio and see if the next TA in rank has a guarantee
+              - if they do, assign them
+              - if not, continue to course with next lowest TA:enrolment, (TA:enrolment must be recaculated after every assignment)
+       - [option 2] for every TA who still has a guarantee after this
+              - look at the top 3 preferences, and assign them to the course out of those three that have the lowest TA:enrolment
+     - if all TAs with guarantees have been assigned and maxTA:enrolment > 2*minTA:enrolment
+              - while maxTA:enrolment > 2*minTA:enrolment, assign next TA in ranking for the course with minTA:enrolment
