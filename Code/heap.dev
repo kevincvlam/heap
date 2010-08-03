@@ -1,7 +1,7 @@
 [Project]
 FileName=heap.dev
 Name=heap
-UnitCount=10
+UnitCount=12
 Type=1
 Ver=1
 ObjFiles=
@@ -20,7 +20,7 @@ ObjectOutput=
 OverrideOutput=0
 OverrideOutputName=
 HostApplication=
-Folders=input,scoring,sorting
+Folders=assign,input,scoring,sorting
 CommandLine=
 UseCustomMakefile=0
 CustomMakefile=
@@ -50,7 +50,7 @@ AutoIncBuildNr=0
 [Unit1]
 FileName=definitions.cpp
 CompileCpp=1
-Folder=heap
+Folder=
 Compile=1
 Link=1
 Priority=1000
@@ -60,7 +60,7 @@ BuildCmd=
 [Unit2]
 FileName=main.cpp
 CompileCpp=1
-Folder=heap
+Folder=
 Compile=1
 Link=1
 Priority=1000
@@ -70,7 +70,7 @@ BuildCmd=
 [Unit3]
 FileName=student.h
 CompileCpp=1
-Folder=heap
+Folder=
 Compile=1
 Link=1
 Priority=1000
@@ -79,7 +79,7 @@ BuildCmd=
 
 [Unit4]
 FileName=ta_stats.txt
-Folder=heap
+Folder=
 Compile=0
 Link=0
 Priority=1000
@@ -140,6 +140,26 @@ BuildCmd=
 FileName=input.h
 CompileCpp=1
 Folder=input
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit11]
+FileName=assign.h
+CompileCpp=1
+Folder=assign
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit12]
+FileName=assign.cpp
+CompileCpp=1
+Folder=assign
 Compile=1
 Link=1
 Priority=1000

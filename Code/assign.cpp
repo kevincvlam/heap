@@ -22,7 +22,9 @@ vector <Student*> Assign::Assign(vector <Student*> Courses[NUM_COURSES], vector 
     int i, j;
     Sorting sort;
 
+    // add heuristics, ex: karl's note about constrained TAs
     
+    // final resort
     while (!constraint_course(assignment)||!constraint_gaurantee(Courses));
         added = 0;
         for (i=0;i<NUM_COURSES;i++){
