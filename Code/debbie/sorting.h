@@ -23,6 +23,12 @@ vector <Student*> byTAshipsOwed(vector <Student*> Course);
 
 friend class Assign;
 
+void assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA, vector <int> TAships);
+
+bool constraint_guarantee(vector <Student*> Courses[NUM_COURSES]);
+bool constraint_course(vector <Student*> Courses[NUM_COURSES], vector <int> TAships);
+
+
 };
 
 #endif//SORTING_H_INCLUDED
