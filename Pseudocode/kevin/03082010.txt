@@ -1,0 +1,11 @@
+while(guarantees unfulfilled && course unfilled)
+{ 
+  for each course
+   if course unfulfilled
+     append one top ranked candidate while guarantees are not fulfilled
+     (append to a new list, and remove it from the course rankied list, also decrement the taships owed in the reference vector of students)
+   
+   if all course is fulfilled
+     append top ranked candidate
+     if guarantees fulfilled break;
+}   
