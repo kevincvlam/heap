@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="definitions.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="200" topLine="0" />
+	</File>
+	<File name="input.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="16135" topLine="226" />
+	</File>
+	<File name="input.h" open="1" top="0" tabpos="4">
+		<Cursor position="130" topLine="1" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="2456" topLine="37" />
+	</File>
+	<File name="score.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sorting.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="3761" topLine="76" />
+	</File>
+	<File name="student.h" open="1" top="0" tabpos="3">
+		<Cursor position="1948" topLine="69" />
+	</File>
+</CodeBlocks_layout_file>
+[Editors]
+Order=1,4,8,9,11
+Focused=11
+[Editor_0]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_1]
+Open=1
+Top=0
+CursorCol=11
+CursorRow=24
+TopLine=9
+LeftChar=1
+[Editor_2]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=54
+TopLine=43
+LeftChar=1
+[Editor_3]
+Open=0
+Top=0
+[Editor_4]
+Open=1
+Top=0
+CursorCol=37
+CursorRow=15
+TopLine=4
+LeftChar=1
+[Editor_5]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=26
+TopLine=4
+LeftChar=1
+[Editor_6]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=20
+TopLine=1
+LeftChar=1
+[Editor_7]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_8]
+Open=1
+Top=0
+CursorCol=19
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_9]
+Open=1
+Top=0
+CursorCol=50
+CursorRow=19
+TopLine=1
+LeftChar=1
+[Editor_10]
+Open=0
+Top=0
+CursorCol=1
+CursorRow=13
+TopLine=1
+LeftChar=1
+[Editor_11]
+Open=1
+Top=1
+CursorCol=59
+CursorRow=59
+TopLine=47
+LeftChar=1

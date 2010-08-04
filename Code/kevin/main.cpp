@@ -129,8 +129,12 @@ int main(int argc, char* argv[]) {
   sort.printAssignment(assignment, 0);
   cout << "The fitness of this assignment is: " << score.assignment(TAinfo, courseinfo, assignment, gHours) << endl;
 
+<<<<<<< HEAD
 
  //   int solve = assign(TAinfo, courseinfo, candidates, assignment, gHours);
+=======
+    Assign assign(Courses, TAinfo, TAships);
+>>>>>>> 4f8bff51e9cb46c08a362f74c2abc5af14bc57f4
 
     return 0;
 }
