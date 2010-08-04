@@ -48,7 +48,7 @@
 	"student.h"
 	"sorting.h"
 
-1280862533 source:c:\users\kevin lam\dev\heap\code\kevin\input.cpp
+1280864231 source:c:\users\kevin lam\dev\heap\code\kevin\input.cpp
 	"input.h"
 	<math.h>
 
@@ -92,7 +92,7 @@
 	<string>
 	<sstream>
 
-1280864207 source:c:\users\kevin lam\dev\heap\code\kevin\main.cpp
+1280935848 source:c:\users\kevin lam\dev\heap\code\kevin\main.cpp
 	"input.h"
 	"student.h"
 	"sorting.h"
