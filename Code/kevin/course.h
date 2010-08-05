@@ -9,6 +9,7 @@ struct Course{
 string code;
 unsigned int id;
 unsigned int TAships;
+unsigned int refTAships;
 unsigned int enrolled;
 unsigned int level;
 
@@ -27,6 +28,7 @@ int freedom; //the constraint score of the course, lower fredom = more constrain
 
        Course (){
            TAships = 4;
+           refTAships = 4;
            enrolled = 0;
            numPref1st = 0;
            numPref2nd = 0;

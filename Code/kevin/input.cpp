@@ -43,6 +43,7 @@ vector <Course*> Input::store_courseinfo(const char * file)
              courseinfo[numCourses-1]->TAships = (unsigned int)ceil(TAships);
             else
              courseinfo[numCourses-1]->TAships = (unsigned int)floor(TAships);
+             courseinfo[numCourses-1]->refTAships = courseinfo[numCourses-1]->TAships;
         }
 
 

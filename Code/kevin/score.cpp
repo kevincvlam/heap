@@ -55,21 +55,21 @@ int Score::assignment(vector <Student*> tainfo, vector <Course*> course, vector 
     score += (int)((guaranteedHours(tainfo)*1.0/hours)*(tainfo.size()));
 
     /** Score based on the TA:enrollment ratio **/
-//        get max and min TAratios
-//    unsigned int max = 0;
-//    for(j=0; j< NUM_COURSES; j++)//for each course
-//    {
-//        if(assignment[j].size()/course[j]->TAships > max)
-//        max = assignment[j].size()/course[j]->TAships;
-//    }
-//    unsigned int min = 1000;
-//    for(j=0; j< NUM_COURSES; j++)//for each course
-//    {
-//        if(assignment[j].size()/course[j]->TAships < min)
-//        min = assignment[j].size()/course[j]->TAships;
-//    }
-//       end max min
-//    score -= (max-min)*course.size();
+        //get max and min TAratios
+    unsigned int max = 0;
+    for(j=0; j< NUM_COURSES; j++)//for each course
+    {
+        if(assignment[j].size()/course[j]->refTAships > max)
+        max = assignment[j].size()/course[j]->refTAships;
+    }
+    unsigned int min = 1000;
+    for(j=0; j< NUM_COURSES; j++)//for each course
+    {
+        if(assignment[j].size()/course[j]->refTAships < min)
+        min = assignment[j].size()/course[j]->refTAships;
+    }
+      // end max min
+    score -= (max-min)*course.size()*12;
 
 
     return score;

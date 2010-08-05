@@ -163,16 +163,17 @@ int main(int argc, char* argv[]) {
     mc = mostConstrainedCourse(courseinfo);
 
     assignment[mc].push_back(candidates[mc][0]);
+    unsigned int topTA = candidates[mc][0]->id;
     if(TAinfo[candidates[mc][0]->id]->TAhoursOwed > 54)
     {
     TAinfo[candidates[mc][0]->id]->TAhoursOwed -= 54;
-    candidates[mc] = removeCandidate(candidates[mc], candidates[mc][0]->id);
+    candidates[mc] = removeCandidate(candidates[mc], topTA);
     }
     else
     {
       for(k = 0; k < NUM_COURSES; k++)
       {
-      candidates[k] = removeCandidate(candidates[k], candidates[mc][0]->id);
+      candidates[k] = removeCandidate(candidates[k], topTA);
       }
     }
     courseinfo[mc]->TAships--;
