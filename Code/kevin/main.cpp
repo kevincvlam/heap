@@ -3,6 +3,7 @@
 #include "sorting.h"
 #include "score.h"
 
+// finds course with lowest freedom (= most constrained)
 int mostConstrainedCourse(vector <Course*> courseinfo)
 {
     unsigned int k;
@@ -17,6 +18,7 @@ int mostConstrainedCourse(vector <Course*> courseinfo)
     return minid;
 }
 
+//removes candidate from vector and returns removed candidate
 vector <Student*> removeCandidate(vector <Student*> candidates, unsigned int id)
 {
     unsigned int k;
@@ -30,6 +32,7 @@ vector <Student*> removeCandidate(vector <Student*> candidates, unsigned int id)
     return candidates;
 }
 
+// recursive assignment funcion
 int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Student*> candidates[NUM_COURSES], vector <Student*> assignment[NUM_COURSES], int gHours)
 {
     //Function Objects

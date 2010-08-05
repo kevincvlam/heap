@@ -77,6 +77,7 @@ int Score::assignment(vector <Student*> tainfo, vector <Course*> course, vector 
 
 /** Student functions **/
 
+// all hours owed to students in departments
 int Score::guaranteedHours(vector <Student*> student)
 {
     int hours = 0;

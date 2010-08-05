@@ -19,7 +19,7 @@ unsigned int numPref3rd;
 unsigned int numPrefWill;
 unsigned int numPrefUnwill;
 
-int freedom;
+int freedom; //the constraint score of the course, lower fredom = more constraint; higher freedom = less constrainted
 
 
 
