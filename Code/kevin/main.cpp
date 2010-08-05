@@ -95,15 +95,17 @@ int main(int argc, char* argv[]) {
     vector <Student*> candidates[courseinfo.size()];
     unsigned int l;
     unsigned int p;
+    unsigned int k;
     //create a full list of all TAs, coressponding to each Course
-    for(l =0; l<courseinfo.size(); l++)
+    for(k = 0; k < NUM_COURSES; k++)
     {
-        for(p =0; p <TAinfo.size(); p++)
-        {
-            candidates[l].push_back(TAinfo[p]);
-        }
-    }
+       sort.storePref(TAinfo, candidates[k], k);
+       sort.bySeniority(candidates[k], k);
+       sort.byPrevAppts(candidates[k], k);
+       sort.byScore(candidates[k], k);
+       sort.byOwed(candidates[k]);
 
+    }
 
 
    /** Prints out the Course Data **/
@@ -118,19 +120,18 @@ int main(int argc, char* argv[]) {
 //    }
 
   /** Make a Dummy Assignment **/
-  unsigned int j;
-  unsigned int q;
-  unsigned int k = 0;
-  for(j =0; j < courseinfo.size(); j++)
-  {
-      for(q = 0; q <6; q++)
-      {
-          assignment[j].push_back(TAinfo[k++]);
-      }
-  }
-  assignment[0] = removeCandidate(assignment[0], TAinfo[0]->id);
-  sort.printAssignment(assignment, 0);
-  cout << "The fitness of this assignment is: " << score.assignment(TAinfo, courseinfo, assignment, gHours) << endl;
+//  unsigned int j;
+//  unsigned int q;
+//  for(j =0; j < courseinfo.size(); j++)
+//  {
+//      for(q = 0; q <6; q++)
+//      {
+//          assignment[j].push_back(TAinfo[k++]);
+//      }
+//  }
+//  assignment[0] = removeCandidate(assignment[0], TAinfo[0]->id);
+//  sort.printAssignment(assignment, 0);
+//  cout << "The fitness of this assignment is: " << score.assignment(TAinfo, courseinfo, assignment, gHours) << endl;
 
 
  //   int solve = assign(TAinfo, courseinfo, candidates, assignment, gHours);
