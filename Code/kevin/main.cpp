@@ -44,6 +44,7 @@ int coursesStillNeedTAS(vector <Course*> courseinfo)
 }
 
 // recursive assignment funcion
+// returns 1 if success, 0 if fail
 int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Student*> candidates[NUM_COURSES], vector <Student*> assignment[NUM_COURSES], int gHours)
 {
     //Function Objects
@@ -99,11 +100,11 @@ int main(int argc, char* argv[]) {
     TAinfo = in.store_info(argv[1]);//reads in ta_stats
     vector <Course*> courseinfo = in.store_courseinfo(argv[2]); //store enrollment for each course
     courseinfo = in.updateConstraintInfo(courseinfo, TAinfo);
-    int gHours = score.guaranteedHours(TAinfo);
+    int gHours = score.guaranteedHours(TAinfo); // hours owed to students in deparatment
 
     //Active Objects
-    vector <Student*> assignment[courseinfo.size()];
-    vector <Student*> candidates[courseinfo.size()];
+    vector <Student*> assignment[courseinfo.size()]; // final assignment
+    vector <Student*> candidates[courseinfo.size()]; // ranked list of candidates
     unsigned int l;
     unsigned int p;
     unsigned int k;

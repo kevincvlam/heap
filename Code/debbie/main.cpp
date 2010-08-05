@@ -6,14 +6,14 @@
 
 //1. Takes the name of a file to view as the first command-line argument
 int main(int argc, char* argv[]) {
-    if (argc < 2) { cout << "Error: Use 1 Argument." << endl; return EXIT_FAILURE;}
+    if (argc < 3) { cout << "Error: Use 2 Arguments." << endl; return EXIT_FAILURE;}
     Input in;
     Sorting sort;
     Score score;
     Assign assign;
     vector <Student*> TAinfo;
     TAinfo = in.store_info(argv[1]);//reads in ta_stats
-    vector <int> TAships = in.store_courseinfo("course_stats.txt"); //store enrollment for each course
+    vector <int> TAships = in.store_courseinfo(argv[2]); //store enrollment for each course
 
     vector <Student*> Courses[NUM_COURSES];  //Each course starts as an empty vector of students
 
