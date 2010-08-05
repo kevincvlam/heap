@@ -157,8 +157,10 @@ int main(int argc, char* argv[]) {
 //   recalculate constraint
     /**Create a baseline assignemnt **/
     unsigned int mc;
+
+    while(coursesStillNeedTAS(courseinfo))
+    {
     mc = mostConstrainedCourse(courseinfo);
-    printf("%d\n", courseinfo[mc]->id);
 
     assignment[mc].push_back(candidates[mc][0]);
     if(TAinfo[candidates[mc][0]->id]->TAhoursOwed > 54)
@@ -187,9 +189,10 @@ int main(int argc, char* argv[]) {
     sort.byScore(candidates[k], k);
     sort.byOwed(candidates[k]);
     }
+    }
 
     sort.printAssignment(assignment, 0);
-
+    cout << "The fitness of this assignment is: " << score.assignment(TAinfo, courseinfo, assignment, gHours) << endl;
 
     return 0;
 }

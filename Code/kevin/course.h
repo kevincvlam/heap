@@ -34,6 +34,7 @@ int freedom; //the constraint score of the course, lower fredom = more constrain
            numPrefPref = 0;
            numPrefWill = 0;
            numPrefUnwill = 0;
+           constraints = 0;
            freedom = 0;
        }
 };
