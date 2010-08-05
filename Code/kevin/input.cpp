@@ -292,7 +292,7 @@ vector <Course*> Input::updateConstraintInfo(vector <Course*> course, vector <St
 
     }
     for(j=0; j < course.size(); j++){
-        course[j]->constraints = course[j]->numPref1st + course[j]->numPref2nd + course[j]->numPref3rd + course[j]->numPrefWill;
+        course[j]->constraints = course[j]->numPref1st + course[j]->numPref2nd + course[j]->numPref3rd + course[j]->numPrefWill + course[j]->numPrefPref;
     }
 
 return course;
