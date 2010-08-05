@@ -3,6 +3,7 @@
 #include "sorting.h"
 #include "score.h"
 #include "stdlib.h"
+#include <time.h>
 
 // finds course with lowest freedom (= most constrained)
 vector<unsigned int> mostConstrainedCourse(vector <Course*> courseinfo)
@@ -175,8 +176,15 @@ int main(int argc, char* argv[]) {
     {
     n = mostConstrainedCourse(courseinfo);
 
+    srand(time(NULL));
+
     if(n.size() > 1){
-        for(int i=0; i<n.size(); i++){
+        int j = n.size();
+        int random = rand()%j;
+        //if(j < n.size()) mc = n[j];
+        mc = n[random];
+       // else mc = n[0];
+      /*  for(int i=0; i<n.size(); i++){
             cout<<n[i]<<" ";
         }
         cout<<endl<<"Which course?"<<endl;
@@ -184,6 +192,7 @@ int main(int argc, char* argv[]) {
         scanf("%d\n", &j);
         mc = j;
         cout<<"Acknowledged"<<endl;
+        */
     }
     else if(n.size() == 1){
         mc = n[0];
