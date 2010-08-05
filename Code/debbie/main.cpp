@@ -18,23 +18,22 @@ int main(int argc, char* argv[]) {
     vector <Student*> Courses[NUM_COURSES];  //Each course starts as an empty vector of students
 
 
-    //Store an Initial List of Students, based on preference
+    //Store an Initial List of Students, based on preference   
 
-    sort.sort(TAinfo, Courses);
-    assign.assign(Courses, TAinfo, TAships);
-
-//    int j;
-//    for(j = 0; j < NUM_COURSES; j++)
-//    {
-//       sort.storePref(TAinfo, Courses[j], j);
-//       sort.bySeniority(Courses[j], j);
-//       sort.byPrevAppts(Courses[j], j);
-//       sort.byScore(Courses[j], j);
-//       sort.byOwed(Courses[j]);
-//    }
-//    sort.printAssignment(Courses, 0);
+    int j;
+    for(j = 0; j < NUM_COURSES; j++)
+    {
+       sort.storePref(TAinfo, Courses[j], j);
+       sort.bySeniority(Courses[j], j);
+       sort.byPrevAppts(Courses[j], j);
+       sort.byScore(Courses[j], j);
+       sort.byOwed(Courses[j]);
+    }
+    sort.printAssignment(Courses, 0);
 
 
+      assign.assign(Courses, TAinfo, TAships);
+    
 //    //test
 //   // sort.printNames(Courses[1]);
 //    //sort.printAssignment(Courses, 0);

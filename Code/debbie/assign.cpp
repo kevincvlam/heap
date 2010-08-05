@@ -26,9 +26,22 @@ void Assign::assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA
     while (!constraint_course(assignment,TAships)/*||!constraint_guarantee(Courses)*/){
         for (i=0;i<NUM_COURSES;i++){
             //cout << assignment[i].size() << " " << TAships[i] << endl;
-            if(assignment[i].size()<(unsigned)TAships[i]){
+            if (Courses[i][0]->TAhoursOwed <= 0){
+                 for(i=0;i<NUM_COURSES;i++){
+                     cout << "course " << i;
+                     for (j=0;j<assignment[i].size();j++) cout << " " << assignment[i][j]->firstName;
+                     cout << endl;
+                 }
+                 return;
+            } else if(assignment[i].size()<(unsigned)TAships[i]){                                           
+                /*if (Courses[i][0]->TAhoursOwed<=0){
+                   cout << "Courses[i][0]->TAhoursOwed<=0" << endl;
+                   for (j=0;j<Courses[i].size();j++){
+                       cout << Courses[i][j]->firstName << " " << Courses[i][j]->TAhoursOwed << endl;
+                   }
+                }*/
                 assignment[i].push_back(Courses[i][0]);
-                //cout << "Added "<< assignment[i][assignment[i].size()-1]->firstName << " " << assignment[i][assignment[i].size()-1]->TAhoursOwed << " to course " << i << endl;
+                cout << "Added "<< assignment[i][assignment[i].size()-1]->firstName << " " << assignment[i][assignment[i].size()-1]->TAhoursOwed << " to course " << i << endl;
                 TA[Courses[i][0]->id]->TAhoursOwed -= 54;
                 TA[Courses[i][0]->id]->TAshipsWanted -= 54;
                 TA[Courses[i][0]->id]->TAshipsWanted -= 54;
@@ -36,10 +49,24 @@ void Assign::assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA
                 TA[Courses[i][0]->id]->maxWilling -= 54;
                 TA[Courses[i][0]->id]->minTA -= 54;
                 TA[Courses[i][0]->id]->maxTA -= 54;
-                sort.sort(TA,Courses);
-            } /*else if (constraint_course(assignment,TAships)&&!constraint_guarantee(Courses)){
+                //cout << " Next " << Courses[i][0]->firstName << " " << Courses[i][0]->TAhoursOwed << endl;
+                for(j = 0; j < NUM_COURSES; j++){
+                       sort.storePref(TA, Courses[j], j);
+                       sort.bySeniority(Courses[j], j);
+                       sort.byPrevAppts(Courses[j], j);
+                       sort.byScore(Courses[j], j);
+                       sort.byOwed(Courses[j]);
+                }
+                sort.printAssignment(Courses, 0);
+                for (j=0;j<Courses[i].size();j++){
+                    if(Courses[i][j]->id == assignment[i][assignment[i].size()-1]->id){
+                        cout << " removing " << Courses[i][j]->firstName << endl;
+                        Courses[i].erase(Courses[i].begin()+j);
+                    }
+                }
+            } else if (constraint_course(assignment,TAships)&&!constraint_guarantee(Courses)&&Courses[i][0]->TAhoursOwed>0){
                 assignment[i].push_back(Courses[i][0]);
-                cout << "Added "<< assignment[i][assignment[i].size()-1]->firstName << "to course " << i << endl;
+                cout << "Course constraint satisfied.  Added "<< assignment[i][assignment[i].size()-1]->firstName << " to course " << i << endl;
                 TA[Courses[i][0]->id]->TAhoursOwed -= 54;
                 TA[Courses[i][0]->id]->TAshipsWanted -= 54;
                 TA[Courses[i][0]->id]->TAshipsWanted -= 54;
@@ -47,8 +74,15 @@ void Assign::assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA
                 TA[Courses[i][0]->id]->maxWilling -= 54;
                 TA[Courses[i][0]->id]->minTA -= 54;
                 TA[Courses[i][0]->id]->maxTA -= 54;
-                sort.sort(TA,Courses);
-            } */
+                Courses[i].erase(Courses[i].begin());
+                for(j = 0; j < NUM_COURSES; j++){
+                       sort.storePref(TA, Courses[j], j);
+                       sort.bySeniority(Courses[j], j);
+                       sort.byPrevAppts(Courses[j], j);
+                       sort.byScore(Courses[j], j);
+                       sort.byOwed(Courses[j]);
+                }
+            }
         }
     }
         

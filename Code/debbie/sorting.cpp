@@ -10,7 +10,7 @@
 //Sort by Prev Appts
 //Work from upper year courses down
 
-void Sorting::sort(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURSES]){
+void Sorting::sort(vector <Student*> &TAinfo, vector <Student*> (&Courses)[NUM_COURSES]){
     int j;
     for(j = 0; j < NUM_COURSES; j++)
     {
@@ -20,8 +20,9 @@ void Sorting::sort(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURS
        byScore(Courses[j], j);
        byOwed(Courses[j]);
     }
-    printAssignment(Courses, 0);
-    cout << endl;
+    //printAssignment(Courses, 0);
+    //cout << endl;
+    
 }
 
 
@@ -166,7 +167,7 @@ void Sorting::byOwed(vector <Student*> (&Course))
 }
 
 
-
+/*
 void Sorting::assign(vector <Student*> Courses[NUM_COURSES], vector <Student*> TA, vector <int> TAships){
 
     vector <Student*> assignment[NUM_COURSES];
@@ -221,3 +222,4 @@ bool Sorting::constraint_course(vector <Student*> assignment[NUM_COURSES], vecto
      }
      return course;
 }
+*/

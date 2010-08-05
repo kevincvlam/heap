@@ -9,7 +9,9 @@ void pref(vector <Student*> TA, vector <Student*> (&Course), int code, int prefe
 
 public:
 
-void sort(vector <Student*> TAinfo, vector <Student*> Courses[NUM_COURSES]);
+//vector <Student*>[NUM_COURSES] sort(vector <Student*> &TAinfo, vector <Student*> Courses[NUM_COURSES]);
+
+void sort(vector <Student*> (&TAinfo), vector <Student*> (&Courses)[NUM_COURSES]);
 
 void printNames(vector<Student*> x);
 void storePref(vector <Student*> TA, vector <Student*> (&Course), int code);
