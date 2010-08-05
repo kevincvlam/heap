@@ -33,6 +33,7 @@ vector <Student*> removeCandidate(vector <Student*> candidates, unsigned int id)
 }
 
 // recursive assignment funcion
+// returns 1 if success, 0 if fail
 int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Student*> candidates[NUM_COURSES], vector <Student*> assignment[NUM_COURSES], int gHours)
 {
     //Function Objects
