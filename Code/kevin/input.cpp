@@ -277,6 +277,11 @@ vector <Course*> Input::updateConstraintInfo(vector <Course*> course, vector <St
                 course[j]->numPref3rd++;
                 course[j]->freedom += 10;
             }
+            else if(tainfo[i]->pref[j] == PREF)
+            {
+                course[j]->numPrefPref++;
+                course[j]->freedom += 7;
+            }
             else if(tainfo[i]->pref[j] == WILL)
             {
                 course[j]->numPrefWill++;
@@ -285,6 +290,9 @@ vector <Course*> Input::updateConstraintInfo(vector <Course*> course, vector <St
 
         }
 
+    }
+    for(j=0; j < course.size(); j++){
+        course[j]->constraints = course[j]->numPref1st + course[j]->numPref2nd + course[j]->numPref3rd + course[j]->numPrefWill;
     }
 
 return course;
