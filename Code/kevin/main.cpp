@@ -2,6 +2,7 @@
 #include "student.h"
 #include "sorting.h"
 #include "score.h"
+#include "stdlib.h"
 
 // finds course with lowest freedom (= most constrained)
 int mostConstrainedCourse(vector <Course*> courseinfo)

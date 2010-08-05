@@ -1,5 +1,6 @@
 #include "input.h"
 #include <math.h>
+#include <stdlib.h>
 
 Input::Input(){
     numTA = 0;
