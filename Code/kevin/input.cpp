@@ -1,5 +1,6 @@
 #include "input.h"
 #include <math.h>
+#include <stdlib.h>
 
 Input::Input(){
     numTA = 0;
@@ -43,6 +44,7 @@ vector <Course*> Input::store_courseinfo(const char * file)
              courseinfo[numCourses-1]->TAships = (unsigned int)ceil(TAships);
             else
              courseinfo[numCourses-1]->TAships = (unsigned int)floor(TAships);
+             courseinfo[numCourses-1]->refTAships = courseinfo[numCourses-1]->TAships;
         }
 
 
@@ -298,6 +300,7 @@ vector <Course*> Input::updateConstraintInfo(vector <Course*> course, vector <St
     }
     for(j=0; j < course.size(); j++){
         course[j]->constraints = course[j]->numPref1st + course[j]->numPref2nd + course[j]->numPref3rd + course[j]->numPrefWill + course[j]->numPrefPref + course[j]->numPrefUnwill;
+        course[j]->constraints += course[j]->TAships*100;
     }
 
 return course;

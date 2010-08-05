@@ -48,9 +48,10 @@
 	"student.h"
 	"sorting.h"
 
-1281026114 source:c:\users\kevin lam\dev\heap\code\kevin\input.cpp
+1281034179 source:c:\users\kevin lam\dev\heap\code\kevin\input.cpp
 	"input.h"
 	<math.h>
+	<stdlib.h>
 
 1280954067 c:\users\kevin lam\dev\heap\code\kevin\input.h
 	"definitions.cpp"
@@ -68,7 +69,7 @@
 1280857725 c:\users\kevin lam\dev\heap\code\kevin\student.h
 	"definitions.cpp"
 
-1281026114 source:c:\users\kevin lam\dev\heap\code\kevin\score.cpp
+1281032447 source:c:\users\kevin lam\dev\heap\code\kevin\score.cpp
 	"input.h"
 	"student.h"
 	"score.h"
@@ -76,12 +77,12 @@
 1280950841 c:\users\kevin lam\dev\heap\code\kevin\score.h
 	"student.h"
 
-1281026096 source:c:\users\kevin lam\dev\heap\code\kevin\sorting.cpp
+1281033207 source:c:\users\kevin lam\dev\heap\code\kevin\sorting.cpp
 	"input.h"
 	"student.h"
 	"sorting.h"
 
-1280950841 c:\users\kevin lam\dev\heap\code\kevin\sorting.h
+1281033207 c:\users\kevin lam\dev\heap\code\kevin\sorting.h
 	"student.h"
 
 1280857725 source:c:\users\kevin lam\dev\heap\code\kevin\definitions.cpp
@@ -92,12 +93,13 @@
 	<string>
 	<sstream>
 
-1280935848 source:c:\users\kevin lam\dev\heap\code\kevin\main.cpp
+1281034268 source:c:\users\kevin lam\dev\heap\code\kevin\main.cpp
 	"input.h"
 	"student.h"
 	"sorting.h"
 	"score.h"
+	"stdlib.h"
 
-1281026114 c:\users\kevin lam\dev\heap\code\kevin\course.h
+1281033280 c:\users\kevin lam\dev\heap\code\kevin\course.h
 	"definitions.cpp"
 
