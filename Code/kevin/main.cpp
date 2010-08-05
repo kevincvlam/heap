@@ -8,15 +8,15 @@
 int mostConstrainedCourse(vector <Course*> courseinfo)
 {
     unsigned int k;
-    int min = 999999999;
-    int minid = 0;
+    int max = 0;
+    int maxid = 0;
     for(k=0; k< courseinfo.size(); k++)
     {
-        if(courseinfo[k]->constraints < min){
-        min = courseinfo[k]->constraints;
-        minid = courseinfo[k]->id;}
+        if(courseinfo[k]->constraints > max){
+        max = courseinfo[k]->constraints;
+        maxid = courseinfo[k]->id;}
     }
-    return minid;
+    return maxid;
 }
 
 //removes candidate from vector and returns removed candidate
