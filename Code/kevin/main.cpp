@@ -76,7 +76,7 @@ int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Studen
 
         if(assign(TAinfo, courseinfo, candidates, assignment, gHours))
         {
-        sort.printAssignment(assignment, 0);
+        sort.printAssignment(assignment, courseinfo);
         return 1;
         }
     }
@@ -192,8 +192,14 @@ int main(int argc, char* argv[]) {
     }
     }
 
-    sort.printAssignment(assignment, 0);
+    sort.printAssignment(assignment, courseinfo);
     cout << "The fitness of this assignment is: " << score.assignment(TAinfo, courseinfo, assignment, gHours) << endl;
+    unsigned int hours= 0;
+    for(k=0; k< NUM_COURSES; k++)
+    {
+    hours += score.guaranteedHours(assignment[k]);
+    }
+    cout << "Fulfilled " << hours << " / " << gHours << " Guaranteed Hours " << endl;
 
     return 0;
 }

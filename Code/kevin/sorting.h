@@ -16,7 +16,7 @@ void byPrevAppts(vector <Student*> (&Course), int code);
 void byScore(vector <Student*> (&Course), int code);
 void byOwed(vector <Student*> (&Course));
 
-void printAssignment(vector <Student*> Course[NUM_COURSES], int level);
+void printAssignment(vector <Student*> Course[NUM_COURSES], vector <Course*> courseinfo);
 vector <Student*> byTAshipsOwed(vector <Student*> Course);
 };
 

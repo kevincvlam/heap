@@ -40,12 +40,14 @@ void Sorting::printNames(vector<Student*> x)
 //    }
 //}
 
-void Sorting::printAssignment(vector <Student*> Course[NUM_COURSES], int level) //print the assignment of the top 3 from level, ie. all ranked #1 etc
+void Sorting::printAssignment(vector <Student*> Course[NUM_COURSES], vector <Course*> courseinfo) //print the assignment of the top 3 from level, ie. all ranked #1 etc
 {
     unsigned int j;
+    int level = 0;
     for(j=0; j< NUM_COURSES; j++)
     {
-        cout << "Course: " << j << " Assigned: ";
+
+        cout << "Course: " << courseinfo[j]->code << " Assigned: ";
         for(level = 0; level < Course[j].size(); level++)
         cout << Course[j][level]->firstName << ", ";
         cout<< endl;
