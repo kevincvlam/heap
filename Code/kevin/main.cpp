@@ -5,16 +5,25 @@
 #include "stdlib.h"
 
 // finds course with lowest freedom (= most constrained)
-int mostConstrainedCourse(vector <Course*> courseinfo)
+vector<unsigned int> mostConstrainedCourse(vector <Course*> courseinfo)
 {
     unsigned int k;
     int max = 0;
-    int maxid = 0;
+    vector <unsigned int> maxid;
     for(k=0; k< courseinfo.size(); k++)
     {
         if(courseinfo[k]->constraints > max){
         max = courseinfo[k]->constraints;
-        maxid = courseinfo[k]->id;}
+        //maxid = courseinfo[k]->id;
+        }
+
+
+    }
+    for(k=0; k< courseinfo.size(); k++)
+    {
+        if(courseinfo[k]->constraints == max){
+            maxid.push_back(courseinfo[k]->id);
+        }
     }
     return maxid;
 }
@@ -43,7 +52,7 @@ int coursesStillNeedTAS(vector <Course*> courseinfo)
     }
     return 0;
 }
-
+/*
 // recursive assignment funcion
 // returns 1 if success, 0 if fail
 int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Student*> candidates[NUM_COURSES], vector <Student*> assignment[NUM_COURSES], int gHours)
@@ -85,6 +94,7 @@ int assign(vector <Student*> TAinfo, vector <Course*> courseinfo, vector <Studen
 
     return 0;
 }
+*/
 
 //1. Takes the name of a file to view as the first command-line argument
 int main(int argc, char* argv[]) {
@@ -157,11 +167,27 @@ int main(int argc, char* argv[]) {
 //
 //   recalculate constraint
     /**Create a baseline assignemnt **/
-    unsigned int mc;
+
+    int mc;
+    vector <unsigned int> n;
 
     while(coursesStillNeedTAS(courseinfo))
     {
-    mc = mostConstrainedCourse(courseinfo);
+    n = mostConstrainedCourse(courseinfo);
+
+    if(n.size() > 1){
+        for(int i=0; i<n.size(); i++){
+            cout<<n[i]<<" ";
+        }
+        cout<<endl<<"Which course?"<<endl;
+        int j;
+        scanf("%d\n", &j);
+        mc = j;
+        cout<<"Acknowledged"<<endl;
+    }
+    else if(n.size() == 1){
+        mc = n[0];
+    }
 
     assignment[mc].push_back(candidates[mc][0]);
     unsigned int topTA = candidates[mc][0]->id;
