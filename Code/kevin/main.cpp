@@ -11,8 +11,8 @@ int mostConstrainedCourse(vector <Course*> courseinfo)
     int minid = 0;
     for(k=0; k< courseinfo.size(); k++)
     {
-        if(courseinfo[k]->freedom < min){
-        min = courseinfo[k]->freedom;
+        if(courseinfo[k]->constraints < min){
+        min = courseinfo[k]->constraints;
         minid = courseinfo[k]->id;}
     }
     return minid;
@@ -30,6 +30,17 @@ vector <Student*> removeCandidate(vector <Student*> candidates, unsigned int id)
         }
     }
     return candidates;
+}
+
+int coursesStillNeedTAS(vector <Course*> courseinfo)
+{
+    unsigned int i;
+    for(i=0; i<courseinfo.size(); i++)
+    {
+        if(courseinfo[i]->TAships != 0)
+        return 1;
+    }
+    return 0;
 }
 
 // recursive assignment funcion
@@ -114,7 +125,7 @@ int main(int argc, char* argv[]) {
 //    {
 //        cout << courseinfo[i]->id << ". " << courseinfo[i]->code << endl;
 //        cout << "Enrolled: " << courseinfo[i]->enrolled << " TAships: " << courseinfo[i]->TAships << endl;
-//        cout << "Freedom: " << courseinfo[i]->freedom << endl;
+//        cout << "Constraint: " << courseinfo[i]->constraints << endl;
 //        cout << "numPref1st: " << courseinfo[i]->numPref1st << endl;
 //        cout << "Level: " << courseinfo[i]->level << endl;
 //    }
@@ -135,6 +146,49 @@ int main(int argc, char* argv[]) {
 
 
  //   int solve = assign(TAinfo, courseinfo, candidates, assignment, gHours);
+
+// for the most constrained course
+//   take top candidates
+//   assign
+//   if(has more than one taship) taships--
+//   else remove from all the other lists
+//
+//   recalculate constraint
+    /**Create a baseline assignemnt **/
+    unsigned int mc;
+    mc = mostConstrainedCourse(courseinfo);
+    printf("%d\n", courseinfo[mc]->id);
+
+    assignment[mc].push_back(candidates[mc][0]);
+    if(TAinfo[candidates[mc][0]->id]->TAhoursOwed > 54)
+    {
+    TAinfo[candidates[mc][0]->id]->TAhoursOwed -= 54;
+    candidates[mc] = removeCandidate(candidates[mc], candidates[mc][0]->id);
+    }
+    else
+    {
+      for(k = 0; k < NUM_COURSES; k++)
+      {
+      candidates[k] = removeCandidate(candidates[k], candidates[mc][0]->id);
+      }
+    }
+    courseinfo[mc]->TAships--;
+    courseinfo[mc]->freedom = 0;
+    courseinfo[mc]->constraints = 0;
+    courseinfo = in.updateConstraintInfo(courseinfo, candidates[mc]);
+
+
+    //resort candidate lists
+    for(k = 0; k < NUM_COURSES; k++)
+    {
+    sort.bySeniority(candidates[k], k);
+    sort.byPrevAppts(candidates[k], k);
+    sort.byScore(candidates[k], k);
+    sort.byOwed(candidates[k]);
+    }
+
+    sort.printAssignment(assignment, 0);
+
 
     return 0;
 }

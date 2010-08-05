@@ -2,28 +2,28 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 	<File name="course.h" open="1" top="0" tabpos="2">
-		<Cursor position="569" topLine="0" />
+		<Cursor position="569" topLine="18" />
 	</File>
 	<File name="definitions.cpp" open="1" top="0" tabpos="7">
 		<Cursor position="1139" topLine="37" />
 	</File>
 	<File name="input.cpp" open="1" top="0" tabpos="3">
-		<Cursor position="16820" topLine="253" />
+		<Cursor position="18038" topLine="266" />
 	</File>
 	<File name="input.h" open="0" top="0" tabpos="4">
 		<Cursor position="473" topLine="8" />
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="2737" topLine="74" />
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="5503" topLine="160" />
 	</File>
-	<File name="score.cpp" open="1" top="1" tabpos="5">
-		<Cursor position="2379" topLine="0" />
+	<File name="score.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2379" topLine="49" />
 	</File>
 	<File name="score.h" open="1" top="0" tabpos="6">
 		<Cursor position="252" topLine="0" />
 	</File>
 	<File name="sorting.cpp" open="1" top="0" tabpos="4">
-		<Cursor position="325" topLine="0" />
+		<Cursor position="1722" topLine="27" />
 	</File>
 	<File name="sorting.h" open="0" top="0" tabpos="0">
 		<Cursor position="541" topLine="0" />
