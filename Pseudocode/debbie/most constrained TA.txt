@@ -1,0 +1,8 @@
+student* mostConstrainedTA:
+- numTeachable: keep track of number of courses* that are WILL or better (in student struct).
+- TA with least number of courses they are able to teach will be most constrained
+* maybe we can only look at the courses that still need TAs to fit the other constraint, not sure though
+
+for every ta
+	if (the ta is guaranteed hours && mostConstrainedTA->numTeachable==1)
+		assign ta to that course automatically
