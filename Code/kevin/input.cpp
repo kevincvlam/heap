@@ -27,7 +27,7 @@ vector <Course*> Input::store_courseinfo(const char * file)
             numCourses++;
 
         }
-        if (s.rfind("HLP",s.size()-1)!=string::npos){
+        if (s.rfind("HLP101H ",s.size()-1)!=string::npos){
             Course *course = new Course;
             course->code = s.substr(0,10);
             course->id = numCourses;

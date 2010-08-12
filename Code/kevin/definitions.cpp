@@ -20,7 +20,7 @@
 
 //    COURSES
     #ifndef NUM_COURSES
-    #define NUM_COURSES 9
+    #define NUM_COURSES 8
     #endif
     #ifndef HLP101H
     #define HLP101H 0
