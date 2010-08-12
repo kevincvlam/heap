@@ -25,29 +25,26 @@
     #ifndef HLP101H
     #define HLP101H 0
     #endif
-    #ifndef HLP101HTAH
-    #define HLP101HTAH 1
-    #endif
     #ifndef CSC108H
-    #define CSC108H 2
+    #define CSC108H 1
     #endif
     #ifndef CSC148H
-    #define CSC148H 3
+    #define CSC148H 2
     #endif
     #ifndef CSC165H
-    #define CSC165H 4
+    #define CSC165H 3
     #endif
     #ifndef CSC207H
-    #define CSC207H 5
+    #define CSC207H 4
     #endif
     #ifndef CSC209H
-    #define CSC209H 6
+    #define CSC209H 5
     #endif
     #ifndef CSC324H
-    #define CSC324H 7
+    #define CSC324H 6
     #endif
     #ifndef CSC373H
-    #define CSC373H 8
+    #define CSC373H 7
     #endif
 
 //  WILLINGNESS

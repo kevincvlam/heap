@@ -172,7 +172,6 @@ vector <Student*> Input::store_info(const char * file){
         } else if (s.rfind("Preference",s.size()-1)!=string::npos){
             if (s.rfind("1st",s.size()-1)!=string::npos){
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = FIRST;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = FIRST;
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = FIRST;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = FIRST;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = FIRST;
@@ -182,7 +181,7 @@ vector <Student*> Input::store_info(const char * file){
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = FIRST;
             } else if (s.rfind("2nd",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = SECOND;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = SECOND;
+
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = SECOND;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = SECOND;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = SECOND;
@@ -192,7 +191,7 @@ vector <Student*> Input::store_info(const char * file){
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = SECOND;
             } else if (s.rfind("3rd",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = THIRD;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = THIRD;
+
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = THIRD;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = THIRD;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = THIRD;
@@ -202,7 +201,7 @@ vector <Student*> Input::store_info(const char * file){
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = THIRD;
             } else if (s.rfind("pref",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = PREF;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = PREF;
+
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = PREF;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = PREF;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = PREF;
@@ -212,7 +211,7 @@ vector <Student*> Input::store_info(const char * file){
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = PREF;
             } else if (s.rfind(" will",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = WILL;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = WILL;
+
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = WILL;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = WILL;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = WILL;
@@ -222,7 +221,7 @@ vector <Student*> Input::store_info(const char * file){
                 else if (s.rfind("CSC324H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC324H] = WILL;
             } else if (s.rfind("unwill",s.size()-1)!=string::npos) {
                 if (s.rfind("HLP101H:",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101H] = UNWILL;
-                else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->pref[HLP101HTAH] = UNWILL;
+
                 else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC108H] = UNWILL;
                 else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC148H] = UNWILL;
                 else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->pref[CSC165H] = UNWILL;
@@ -234,7 +233,7 @@ vector <Student*> Input::store_info(const char * file){
 
         } else if (s.rfind("Prev. appts.",s.size()-1)!=string::npos){
             if (s.rfind("HLP101H:",s.size()-1)!=string::npos)  info[numTA-1]->prevAppts[HLP101H] = convert_int(s.substr(26,s.size()-1));
-            else if (s.rfind("HLP101HTAH",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[HLP101HTAH] = convert_int(s.substr(29,s.size()-1));
+
             else if (s.rfind("CSC108H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC108H] = convert_int(s.substr(26,s.size()-1));
             else if (s.rfind("CSC148H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC148H] = convert_int(s.substr(26,s.size()-1));
             else if (s.rfind("CSC165H",s.size()-1)!=string::npos) info[numTA-1]->prevAppts[CSC165H] = convert_int(s.substr(26,s.size()-1));
